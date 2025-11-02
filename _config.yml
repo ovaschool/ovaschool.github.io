@@ -41,7 +41,7 @@ plugins:
 # Setting the following to true makes it such that exceprts are shown on the
 # home page.
 show_excerpts: true
-excerpt_ separator: "<!--more-->"
+excerpt_separator: "<!--more-->"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
