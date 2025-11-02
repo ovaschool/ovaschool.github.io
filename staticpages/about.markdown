@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-*What is OVA?*
+### What is OVA?
 
 The OVA (Omnes Voces Acceptamus) Summer School is the successor to what was
 formerly known as the EGG (Eastern Generative Grammar) School. Since 1994, the
@@ -15,14 +15,14 @@ generative syntax and semantics had been limited — first for political reasons
 during the communist era, and later for economic reasons in the early
 post-communist years.
 
-*Why EGG is OVA*
+### Why EGG is OVA
 
 In 2025, the organizing team of EGG split up, and four of the six board members
 went on to create OVA — a more inclusive and democratically organized
 continuation of EGG. If you’re interested in the full story, you can read more
 in this blog post [LINK] and this one about the name change [LINK].
 
-*Costs and student grants*
+### Costs and student grants
 
 Today, the main aim of OVA remains to offer a summer school accessible to
 everyone, providing an affordable alternative to other linguistic summer schools
@@ -34,7 +34,7 @@ Depending on the financial situation in a given year, we also offer grants for
 low-income students and those from Eastern European countries.  Students can
 apply for financial support as part of the registration process.
 
-*What you learn at the OVA*
+### What you learn at the OVA
 
 OVA offers both introductory and advanced courses in syntax, semantics, and
 phonology — something for everyone. Teachers often attend and participate in one
@@ -53,7 +53,7 @@ participants. In addition, we offer optional workshops — often led by students
 covering practical skills such as LaTeX, statistics, abstract writing, and other
 methods useful for linguistic research.
 
-*OVA teachers*
+### OVA teachers
 
 At OVA, we believe in fostering new ideas from outstanding early-career
 researchers. Unlike many other schools, we are delighted to invite junior
@@ -69,7 +69,7 @@ We also uphold a gender balance in selecting our instructors — not only to
 support the careers of young researchers equally, but also to provide students
 with a range of diverse and inspiring role models.
 
-*The OVA mentality*
+### The OVA mentality
 
 Much of OVA’s spirit reflects the same mindset that shaped EGG. We aim to keep
 the barrier between students and teachers as low as possible — everyone stays in
