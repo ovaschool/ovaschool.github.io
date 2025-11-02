@@ -13,9 +13,9 @@ Click on a school for more information.
 * [Brno 2022](/brno2022)
 * [online 2021](/online2021)
 * [Wrocław 2019](/wroclaw2019)
-* [Banja Luka 2018](/bankaluka2018)
+* [Banja Luka 2018](/banjaluka2018)
 * [Olomouc 2017](/olomouc2017)
-* [Lagodekhi 2016](/lagodekhi)
+* [Lagodekhi 2016](/lagodekhi2016)
 * [Brno 2015](/brno2015)
 * [Debrecen 2014](debrecen2014)
 * Wrocław 2013
