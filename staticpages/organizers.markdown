@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organizers
-permalink: /pastschools/
+permalink: /organizers/
 ---
 
 OVA is brought to you by:
