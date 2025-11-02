@@ -7,7 +7,7 @@ permalink: /pastschools/
 Throughout the years, the school has been hosted by the following institutions.
 Click on a school for more information.
 
-* [[oldprograms/zagreb2025.markdown|Zagreb 2025]]
+* [Zagreb 2025]{zagreb2025}
 * Braşov 2024
 * Novi Sad 2023
 * Brno 2022

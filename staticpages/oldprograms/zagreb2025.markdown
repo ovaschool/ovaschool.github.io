@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Zagreb 2025
 permalink: /zagreb2025/
 ---
 

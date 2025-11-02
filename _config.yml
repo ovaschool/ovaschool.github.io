@@ -36,6 +36,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-relative-links
 
 # Setting the following to true makes it such that exceprts are shown on the
 # home page.
