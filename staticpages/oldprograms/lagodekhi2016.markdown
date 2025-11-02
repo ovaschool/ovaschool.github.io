@@ -25,7 +25,7 @@ _Semantics Lab Classes_ (all semantics teachers)<br/>
 
 **Phonology**<br/>
 _Introduction to substance-free phonology_ (Maxime Papillon)<br/>
-_What’s phonological in phonologically allomorphy: An introduction to the phonology-morphology interface_ (Noam Faust)<br/>
+_What’s phonological in phonologically conditioned allomorphy: An introduction to the phonology-morphology interface_ (Noam Faust)<br/>
 _Reduplication in derivational theories_ (Maxime Papillon)<br/>
 _How real are roots and templates? Issues in non-concatenative morpho-phonology_ (Noam Faust)<br/>
 _The phonetics-phonology interface in perception and production_ (Silke Hamann)<br/>
