@@ -9,7 +9,7 @@ This post was originally posted on [eggschool.org](eggschool.org) on October 13,
 2025 with the title "A clarification about the EGG board". We publish it here
 unchanged.
 
----  
++++      
 
 As you might have noticed, the structure of the EGG board/organizers changed a
 bit (here you find the current members:
