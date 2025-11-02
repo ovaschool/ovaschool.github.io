@@ -17,4 +17,24 @@ Click on a school for more information.
 * Olomouc 2017
 * Laghodekhi 2016
 * Brno 2015
-* ...
+* Debrecen 2014
+* Wroclaw 2013
+* Wroclaw 2012
+* České Budějovice 2011
+* Constanta 2010
+* Poznań 2009
+* Debrecen 2008
+* Brno 2007
+* Olomouc 2006
+* Wroclaw 2005
+* Cluj 2004
+* Lublin 2003
+* Novi Sad 2002
+* Niš 2001
+* Blago 2000
+* Plovdiv 1999
+* Debrecen 1998
+* Olomouc 1997
+* Olomouc 1996
+* Olomouc 1995
+* Olomouc 1994
