@@ -19,7 +19,7 @@ post-communist years.
 
 In 2025, the organizing team of EGG split up, and four of the six board members
 went on to create OVA — a more inclusive and democratically organized
-continuation of EGG. If you’re interested in the full story, you can read more
+continuation of EGG. If you are interested in the full story, you can read more
 in this blog post [LINK] and this one about the name change [LINK].
 
 ### Costs and student grants
