@@ -36,6 +36,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Setting the following to true makes it such that exceprts are shown on the
+# home page.
 show_excerpts: true
 
 # Exclude from processing.
