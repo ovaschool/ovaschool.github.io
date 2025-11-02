@@ -1,12 +1,3 @@
- 1
-2
-3
-4
-5
-6
-7
-8
-9
 ---
 title: Novi Sad 2023
 permalink: /novisad2023/
