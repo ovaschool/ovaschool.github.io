@@ -9,6 +9,7 @@ date:   2025-11-02 17:00:00 +0100
 2025 with the title "A clarification about the EGG board". We publish it here
 unchanged.*   
 
+<!--more-->
 
 As you might have noticed, the structure of the EGG board/organizers changed a
 bit (here you find the current members:
@@ -60,7 +61,7 @@ There have been discrepancies within the EGG board for multiple years now, mainl
   anything alike, nor has it been agreed upon by all current board members (in
   fact, Petra, for most years, was not even informed that she had no voting
   right.))
-* *a democratic and equitable board setup*, in which every track has an even
+* **a democratic and equitable board setup**, in which every track has an even
   number of members (we proposed the following versions: 2 phonology + 2
   semantics + 2 syntax members or 1 phonology + 1 semantics + 1 syntax member +
   1-2 logistics members). All options were refused by the two phonologists
