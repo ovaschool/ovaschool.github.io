@@ -17,7 +17,7 @@ Click on a school for more information.
 * [Olomouc 2017](/olomouc2017)
 * [Lagodekhi 2016](/lagodekhi2016)
 * [Brno 2015](/brno2015)
-* [Debrecen 2014](debrecen2014)
+* [Debrecen 2014](/debrecen2014)
 * Wrocław 2013
 * Wrocław 2012
 * České Budějovice 2011
