@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "A clarification about the EGG board"
-date:   2025-11-02 20:09:00 +0100
+date:   2025-11-02 17:00:00 +0100
 # categories: jekyll update
 ---
 
 As you might have noticed, the structure of the EGG board/organizers changed a
-bit (here you find the current members: https://www.eggschool.org/organizers/).
+bit (here you find the current members:
+[https://www.eggschool.org/organizers/](https://www.eggschool.org/organizers/)).
 In this post, we would like to briefly clarify the background of these changes.
 
 So far, the EGG board consisted of the following members:
@@ -30,7 +31,8 @@ There have been discrepancies within the EGG board for multiple years now, mainl
   there were repeated incidents of (unwanted) sexual attention between
   participants (including teachers and students) at various EGG summer schools.
   Based on this, Deniz, Magdalena, Berit and Petra suggested having a CoC in the
-  style LSA provides (https://www.lsadc.org/lsa_code_of_conduct_for_events).
+  style LSA provides
+  ([https://www.lsadc.org/lsa_code_of_conduct_for_events](https://www.lsadc.org/lsa_code_of_conduct_for_events)).
   Tobias and Eugeniusz rejected a CoC of any kind, which Tobias compared to a
   restriction of free speech and an “oppressive regime based on denunciation”.
   Tobias pointed out that there were women “who in fact want sexual attention,
@@ -38,7 +40,7 @@ There have been discrepancies within the EGG board for multiple years now, mainl
   supposedly had would attract several students and teachers (even after another
   board member pointed out that this image would often scare away students from
   attending and discourage professors from sending their students to the EGG).
-* ***grant an equal voting right to everyone involved in organizing the school.**
+* **grant an equal voting right to everyone involved in organizing the school.**
   Tobias and Eugeniusz insisted that only the following members have a right to
   vote (on decisions like the gender quota, the CoC, teacher line-ups and the
   yearly location of the school): the two phonology members (Tobias and
@@ -53,7 +55,7 @@ There have been discrepancies within the EGG board for multiple years now, mainl
   anything alike, nor has it been agreed upon by all current board members (in
   fact, Petra, for most years, was not even informed that she had no voting
   right.))
-* **a democratic and equitable board setup*, in which every track has an even
+* *a democratic and equitable board setup*, in which every track has an even
   number of members (we proposed the following versions: 2 phonology + 2
   semantics + 2 syntax members or 1 phonology + 1 semantics + 1 syntax member +
   1-2 logistics members). All options were refused by the two phonologists
@@ -81,4 +83,4 @@ We hope that restructuring the board will lead to fairer votes, a better
 distribution of work between the three subfields and a shift to a more open and
 diverse school.
 
-The ~EGG~ OVA board – Petra, Deniz, Berit & Magdalena
+The EGG board – Petra, Deniz, Berit & Magdalena
