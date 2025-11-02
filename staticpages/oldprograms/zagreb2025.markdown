@@ -7,61 +7,61 @@ exclude: true
 
 Info about the Zagreb 2025 school.
 
-Syntax
+**Syntax**
 
-Introduction to syntax (2 weeks) (Jenia Khristoforova & Stan Zompì)
+_Introduction to syntax_ (2 weeks) (Jenia Khristoforova & Stan Zompì)
 
-Event structure (syn-sem interface) (Natasha Abner)
+_Event structure (syn-sem interface)_ (Natasha Abner)
 
-Spooky Agreement, Agree and Phi-syntax (Tom Meadows)
+_Spooky Agreement, Agree and Phi-syntax_ (Tom Meadows)
 
-(*)ABA effects and their theoretical implications (Stan Zompì)
+_(*)ABA effects and their theoretical implications_ (Stan Zompì)
 
-Challenging theories: Insights from sign language syntax (Jenia Khristoforova)
+_Challenging theories: Insights from sign language syntax_ (Jenia Khristoforova)
 
-Markedness in morphosyntax (Zorica Puškar-Gallien)
+_Markedness in morphosyntax_ (Zorica Puškar-Gallien)
 
-Weird types of movement (Lena Lohninger & Tom Meadows)
+_Weird types of movement_ (Lena Lohninger & Tom Meadows)
 
-Where it all began: Introduction to Syntactic Structures (John Bailyn)
-
-
-Semantics
-
-Introduction to semantics (2 weeks) (Rajesh Bhatt & Jon Ander Mendia)
-
-Degree (Rajesh Bhatt & Jon Ander Mendia) 
-
-Speech acts: Undertaking and influencing commitments (Ashwini Deo & David Beaver)
-
-What sentences do (Tom Roberts)
-
-What embedded sentences do (Tom Roberts)
-
-Structural complexity in formal pragmatics (Nina Haslinger)
-
-Interpreting focus: Bridging theory and incremental measures (Morwenna Hoeks)
+_Where it all began: Introduction to Syntactic Structures_ (John Bailyn)
 
 
-Phonology
+**Semantics**
 
-Introduction to formal generative phonology (Veno Volence)
+_Introduction to semantics_ (2 weeks) (Rajesh Bhatt & Jon Ander Mendia)
 
-Introduction to intonational phonology (Jason Bishop)
+_Degree_ (Rajesh Bhatt & Jon Ander Mendia) 
 
-Overview of Substance Free Logical Phonology (Charles Reiss)
+_Speech acts: Undertaking and influencing commitments_ (Ashwini Deo & David Beaver)
 
-Classical and current models of autosegmental phonology (Katalin Balogné-Bérces)
+_What sentences do_ (Tom Roberts)
 
-Laryngeal realism/relativism (Katalin Balogné-Bérces)
+_What embedded sentences do_ (Tom Roberts)
 
-Exceptionality (Kyle Gorman)
+_Structural complexity in formal pragmatics_ (Nina Haslinger)
 
-Neurobiology of language and speech (Veno Volenec)
+_Interpreting focus: Bridging theory and incremental measures_ (Morwenna Hoeks)
 
-Theories of phonotactics (Kyle Gorman)
 
-What is a prosodic phrase? Grammatical vs. processing perspectives (Jason Bishop)
+**Phonology**
 
-Phonology and cognitive science (Charles Reiss)
+_Introduction to formal generative phonology_ (Veno Volence)
+
+_Introduction to intonational phonology_ (Jason Bishop)
+
+_Overview of Substance Free Logical Phonology_ (Charles Reiss)
+
+_Classical and current models of autosegmental phonology_ (Katalin Balogné-Bérces)
+
+_Laryngeal realism/relativism_ (Katalin Balogné-Bérces)
+
+_Exceptionality_ (Kyle Gorman)
+
+_Neurobiology of language and speech_ (Veno Volenec)
+
+_Theories of phonotactics_ (Kyle Gorman)
+
+_What is a prosodic phrase? Grammatical vs. processing perspectives_ (Jason Bishop)
+
+_Phonology and cognitive science_ (Charles Reiss)
 
