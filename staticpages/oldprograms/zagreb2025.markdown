@@ -1,5 +1,5 @@
 ---
-layout: oldprograms
+layout: default
 title: Zagreb 2025
 permalink: /zagreb2025/
 ---
