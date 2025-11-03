@@ -10,7 +10,7 @@ _Introduction to syntax_ (2 weeks) (András Bárány)<br/>
 _Upward vs. Downward Agreement_ (Anke Himmelreich)<br/>
 _Language particulars versus language universals: An Algonquian case study_ (Adrian Stegovec)<br/>
 _Person restrictions in syntax: A generative typological approach_ (Adrian Stegovec)<br/>
-_Determine spreading_ (Maria Kouneli)<br/>
+_Determiner spreading_ (Maria Kouneli)<br/>
 
 **Semantics**<br/>
 _Introduction to semantics_ (2 weeks) (Vera Hohaus & Wataru Uegaki)<br/>

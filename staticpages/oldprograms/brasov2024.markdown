@@ -30,7 +30,7 @@ _Intonation and meaning_ (Deniz Özyıldız)<br/>
 _Introduction to the prosodic structure of words_ (John Harris)<br/>
 _Representations and contrast_ (Pavel Iosad)<br/>
 _Introduction to MMN and phonetics/phonology_ (Arild Hestvik)<br/>
-_Advances topics in MMN and phonology_ (Arild Hestvik)<br/>
+_Advanced topics in MMN and phonology_ (Arild Hestvik)<br/>
 _Slavic phonology_ (Pavel Iosad)<br/>
 _The prosodic structure of words: Experimental explorations_ (John Harris)<br/>
 _Substance-free Phonology and 3x Phonology_ (Tobias Scheer)<br/>

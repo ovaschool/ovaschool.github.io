@@ -34,5 +34,5 @@ work.
 
 We hope to see many of you at OVA in 2026 and the upcoming years!
 
-Your OVA board,
+Your OVA board,  
 Berit, Deniz, Lena and Petra
