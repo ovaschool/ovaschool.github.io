@@ -11,7 +11,7 @@ The OVA (Omnes Voces Acceptamus) Summer School is the successor to what was form
 
 ### Why EGG is OVA now
 
-In 2025, the organizing team of EGG split up, and four of the six board members went on to create OVA — a new era of EGG defined by a more transparent and fair organizational body, and one capable of standing for basic principles of safety, inclusivity and gender representation. (To read more on why the former EGG board was incapable of guaranteeing this, see [here]([url](https://ovaschool.github.io/2025/11/02/clarification.html)) and why we chose a new name, see [here]([url](https://ovaschool.github.io/introducing-ova/)).)
+In 2025, the organizing team of EGG split up, and four of the six board members went on to create OVA — a new era of EGG defined by a more transparent and fair organizational body, and one capable of standing for basic principles of safety, inclusivity and gender representation. (To read more on why the former EGG board was incapable of guaranteeing this, see [here](/clean-break/) and why we chose a new name, see [here](/introducing-ova/).)
 
 
 ### Costs and student grants
