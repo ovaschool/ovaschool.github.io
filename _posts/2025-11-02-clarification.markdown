@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A clean break"
+permalink: /clean-break/
 date:   2025-11-02 17:00:00 +0100
 # categories: jekyll update
 ---
