@@ -23,7 +23,7 @@ did.
 This change opens a new chapter for the school, defined by a more transparent
 and fair organizational body, and one capable of standing for basic principles of
 safety, inclusivity and gender representation. (To read more on why the former
-EGG board was incapable of guaranteeing this, see here.)
+EGG board was incapable of guaranteeing this, see [here](/clean-break/).)
 
 The principles that you are used to from the EGG remain unchanged: OVA is a
 summer school on generative linguistics taught by leading members of our field
