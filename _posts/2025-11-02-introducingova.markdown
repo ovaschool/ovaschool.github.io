@@ -21,7 +21,7 @@ bear the burden of making difficult decisions or 'take sides' just because we
 did.
 
 This change opens a new chapter for the school, defined by a more transparent
-and fair organizatonal body, and one capable of standing for basic principles of
+and fair organizational body, and one capable of standing for basic principles of
 safety, inclusivity and gender representation. (To read more on why the former
 EGG board was incapable of guaranteeing this, see here.)
 
