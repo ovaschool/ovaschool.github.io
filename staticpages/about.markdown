@@ -9,7 +9,7 @@ permalink: /about/
 The OVA (Omnes Voces Acceptamus) Summer School is the successor to what was formerly known as the EGG (Eastern Generative Grammar) School. Since 1994, the EGG has been held annually in former Eastern Bloc countries. The original goal of the school was to offer an affordable program in generative linguistics, particularly in regions where access to generative syntax, semantics and phonology had been limited — first for political reasons during the communist era, and later for economic reasons in the early post-communist years.
 
 
-### Why EGG is OVA
+### Why EGG is OVA now
 
 In 2025, the organizing team of EGG split up, and four of the six board members went on to create OVA — a new era of EGG defined by a more transparent and fair organizational body, and one capable of standing for basic principles of safety, inclusivity and gender representation. (To read more on why the former EGG board was incapable of guaranteeing this, see [here]([url](https://ovaschool.github.io/2025/11/02/clarification.html)) and why we chose a new name, see [here]([url](https://ovaschool.github.io/introducing-ova/)).)
 
