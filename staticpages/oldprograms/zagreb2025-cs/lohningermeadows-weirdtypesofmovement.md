@@ -4,6 +4,8 @@ permalink: /lohningermeadows/
 layout: page
 exclude: true
 ---
+**Magdalena Lohninger & Tom Meadows: Weird types of movement**<br/>
+
 Course Material [here](https://drive.google.com/drive/folders/1xeBgHLKUCsQsxUeh9W4zJM09k2BFRsIm?usp=drive_link)<br/>
 
 Phrasal movement has traditionally been divided into two kinds: A-movement such as subject raising and passivisation vs. Ā-movement such as wh-movement, topicalization, focalization and relazivization.
