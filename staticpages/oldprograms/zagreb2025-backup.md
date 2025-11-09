@@ -34,5 +34,7 @@ exclude: true
 [_Neurobiology of language and speech_](zagreb2025-cs/volonec-neurobiology.md) (Veno Volenec)<br/>
 [_Theories of phonotactics_](zagreb2025-cs/gorman-phonotactics.md) (Kyle Gorman)<br/>
 [_What is a prosodic phrase? Grammatical vs. processing perspectives_](zagreb2025-cs/bishop-prosodicphrase.md) (Jason Bishop)<br/>
-[_Phonology and cognitive science_](zagreb2025-cs/reiss-phonologycogsci.md) (Charles Reiss)
+[_Phonology and cognitive science_](zagreb2025-cs/reiss-phonologycogsci.md) (Charles Reiss)<br/>
+
+[**Open Podium**](zagreb2025-cs/openpodium25)
 
