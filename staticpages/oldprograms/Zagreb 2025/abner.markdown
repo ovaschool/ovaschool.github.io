@@ -4,7 +4,6 @@ permalink: /abner/
 layout: page
 exclude: true
 ---
-
 Course material [here](bit.ly/25AbnerEGG)<br/>
 
 Event structure provides an ideal window onto the linguistic system, in part because the task demands of processing events in the world are much like those of processing language: an ongoing and continuous perceptual stream is segmented by the human mind into discrete spatiotemporal units (Zacks & Tversky, 2001). Moreover, the conceptual output of this segmentation, events, provides frames around which we plan linguistic messages (Levelt, 1989) and there are “deep homologies between linguistic and cognitive event structure” (Ünal et al., 2019). <br/>
