@@ -4,6 +4,7 @@ permalink: /openpodium25/
 layout: page
 exclude: true
 ---
+**Open Podium (Zagreb, 2025)**
 
 **Wednesday, August 6**
 
