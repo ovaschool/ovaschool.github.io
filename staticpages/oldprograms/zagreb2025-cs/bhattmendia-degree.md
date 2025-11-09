@@ -4,6 +4,7 @@ permalink: /bhattmendiadegree/
 layout: page
 exclude: true
 ---
+**Rajesh Bhatt & Jon Ander Mendia: Degree**<br/>
 
 Course material [here](https://tinyurl.com/25rf26w3)<br/>
 
