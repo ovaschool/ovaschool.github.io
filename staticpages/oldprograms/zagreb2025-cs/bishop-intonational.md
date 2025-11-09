@@ -5,6 +5,7 @@ layout: page
 exclude: true
 ---
 
+**Jason Bishop: Introduction to Intonational Phonology**<br/>
 
 Course material [here](https://drive.google.com/drive/u/0/folders/1G4q7ynFqqv6wADCGlFE-HkQUPHjHUMFZ)<br/>
 
@@ -13,13 +14,13 @@ This course is an introduction to the Autosegmental-Metrical framework for study
 Tentative schedule of topics<br/>
 
 Monday<br/>
-The Half-Tamed Beast: Intonation vs. paralanguage. Overlapping (but not quite competing) research programs. Introduction to structural prominence<br/>
+_The Half-Tamed Beast_: Intonation vs. paralanguage. Overlapping (but not quite competing) research programs. Introduction to structural prominence<br/>
 
 Tuesday<br/>
-More on prominence: Pitch accents in MAE_English. Does contrastive focus have a special realization?<br/>
+More on prominence: Pitch accents in MAE_English. Does contrastive focus have a special realization?<br/>
 
 Wednesday<br/>
-The prosodic hierarchy. Intonational marking of phrase edges.<br/>
+The prosodic hierarchy. Intonational marking of phrase edges.<br/>
 
 Thursday<br/>
 Group discussion of ToBI transcriptions.<br/>
