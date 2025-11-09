@@ -13,7 +13,7 @@ _(*)ABA effects and their theoretical implications_ (Stan Zompì)<br/>
 _Challenging theories: Insights from sign language syntax_ (Jenia Khristoforova)<br/>
 _Markedness in morphosyntax_ (Zorica Puškar-Gallien)<br/>
 _Weird types of movement_ (Lena Lohninger & Tom Meadows)<br/>
-[_Where it all began: Introduction to Syntactic Structures_](bailyn25) (John Bailyn)<br/>
+_Where it all began: Introduction to Syntactic Structures_ (John Bailyn)<br/>
 
 **Semantics**<br/>
 _Introduction to semantics_ (2 weeks) (Rajesh Bhatt & Jon Ander Mendia)<br/>
