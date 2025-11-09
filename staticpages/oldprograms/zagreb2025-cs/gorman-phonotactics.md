@@ -4,6 +4,7 @@ permalink: /gormanphonotactics/
 layout: page
 exclude: true
 ---
+**Kyle Gorman: Theories of phonotactics**<br/>
 
 Course material [here](https://wellformedness.com/courses/phonotactics/)
 
