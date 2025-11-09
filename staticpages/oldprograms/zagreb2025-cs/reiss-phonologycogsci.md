@@ -4,6 +4,7 @@ permalink: /reisscognitive/
 layout: page
 exclude: true
 ---
+**Charles Reiss: Phonology and Cognitive Science**<br/>
 
 This course will consider very simple phonological  phenomena in the context of ‘big picture’ issues in linguistics and cognitive science,  such as<br/> 
 
