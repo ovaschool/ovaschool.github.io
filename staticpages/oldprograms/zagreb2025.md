@@ -7,7 +7,7 @@ exclude: true
 
 **Syntax**<br/>
 [_Introduction to syntax_](./zagreb2025-cs/khristoforova-introsyntax.md) (2 weeks) (Jenia Khristoforova) <br/>
-_Event structure (syn-sem interface)_ (Natasha Abner)<br/>
+[_Event structure (syn-sem interface)_](zagreb2025-cs/abner-eventstructure.md) (Natasha Abner)<br/>
 _Spooky Agreement, Agree and Phi-syntax_ (Tom Meadows)<br/>
 _(*)ABA effects and their theoretical implications_ (Stan Zompì)<br/>
 _Challenging theories: Insights from sign language syntax_ (Jenia Khristoforova)<br/>
