@@ -6,14 +6,14 @@ exclude: true
 ---
 
 **Syntax**<br/>
-[_Introduction to syntax_](./zagreb2025-cs/khristoforova-introsyntax.md) (2 weeks) (Jenia Khristoforova) <br/>
+[_Introduction to syntax_](zagreb2025-cs/khristoforova-introsyntax.md) (2 weeks) (Jenia Khristoforova) <br/>
 [_Event structure (syn-sem interface)_](zagreb2025-cs/abner-eventstructure.md) (Natasha Abner)<br/>
-_Spooky Agreement, Agree and Phi-syntax_ (Tom Meadows)<br/>
-_(*)ABA effects and their theoretical implications_ (Stan Zompì)<br/>
-_Challenging theories: Insights from sign language syntax_ (Jenia Khristoforova)<br/>
-_Markedness in morphosyntax_ (Zorica Puškar-Gallien)<br/>
-_Weird types of movement_ (Lena Lohninger & Tom Meadows)<br/>
-_Where it all began: Introduction to Syntactic Structures_ (John Bailyn)<br/>
+[_Spooky Agreement, Agree and Phi-syntax_](zagreb2025-cs/meadows-sppokyagreement.md) (Tom Meadows)<br/>
+[_(*)ABA effects and their theoretical implications_](zompi-abaeffects.md) (Stan Zompì)<br/>
+[_Challenging theories: Insights from sign language syntax_](zagreb2025-cs/khristoforova-signlanguagesyntax.md) (Jenia Khristoforova)<br/>
+[_Markedness in morphosyntax_](zagreb2025-cs/puskargallien-markednessinmorphosyntax.md) (Zorica Puškar-Gallien)<br/>
+[_Weird types of movement_](zagreb2025-cs/lohningermeadows-weirdtypesofmovement.md) (Lena Lohninger & Tom Meadows)<br/>
+[_Where it all began: Introduction to Syntactic Structures_](zagreb2025-cs/bailyn-syntacticstructures.md) (John Bailyn)<br/>
 
 **Semantics**<br/>
 _Introduction to semantics_ (2 weeks) (Rajesh Bhatt & Jon Ander Mendia)<br/>
