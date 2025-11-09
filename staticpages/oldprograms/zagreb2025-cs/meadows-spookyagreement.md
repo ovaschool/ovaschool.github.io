@@ -4,6 +4,7 @@ permalink: /meadowsspooky/
 layout: page
 exclude: true
 ---
+**Tom Meadows: Spooky Agreement, Agree and Phi-syntax**<br/>
 
 [This course explores theoretical and empirical issues in the analysis of agreement phenomena, and the nature of phi-features. It probes an incomplete line of reasoning and feedback/pushback is highly welcome from attendees!]<br/>
 
