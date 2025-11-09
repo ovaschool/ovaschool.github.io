@@ -4,6 +4,7 @@ permalink: /volenec25neuro/
 layout: page
 exclude: true
 ---
+**Veno Volenec: Neurobiology of language and speech**<br/>
 
 Course material [here](https://ffzghr-my.sharepoint.com/personal/vvolenec_m_ffzg_hr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvvolenec%5Fm%5Fffzg%5Fhr%2FDocuments%2FEGG%202025%2FNeurobiology%20of%20Language%20and%20Speech%20%28EGG%202025%20%2D%20Volenec%29%2Epdf&parent=%2Fpersonal%2Fvvolenec%5Fm%5Fffzg%5Fhr%2FDocuments%2FEGG%202025&ga=1)<br/>
 
