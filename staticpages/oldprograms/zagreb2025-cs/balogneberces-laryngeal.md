@@ -12,14 +12,14 @@ Languages differ as to how many series of obstruents they distinguish by some la
 Students are encouraged to bring along data from languages of their choice to test the theoretical claims.<br/>
 
 Reading suggestions: (in chronological order)<br/>
-Lisker, L. and A. S. Abramson. 1964. A cross-linguistic study of voicing in initial stops: Acoustical measurements. WORD 20. 384–422. https://doi.org/10.1080/00437956.1964.11659830.<br/>
-Iverson, G. K. and J. C. Salmons. 1995. Aspiration and laryngeal representation in Germanic. Phonology 12. 369–396. https://doi.org/10.1017/S0952675700002566. https://www.jstor.org/stable/4420084.<br/>
-Avery, P. and W. J. Idsardi. 2001. Laryngeal dimensions, completion and enhancement. In T. A. Hall (ed.) Distinctive feature theory. Mouton de Gruyter. 41–70. https://doi.org/10.1515/9783110886672.41.<br/>
-Van Rooy, B. and D. P. Wissing. 2001. Distinctive [voice] implies regressive voicing assimilation. In T. Hall (ed.) Distinctive feature theory. Mouton de Gruyter. 295–334. https://doi.org/10.1515/9783110886672.295.<br/>
-Ringen, C. and P. Helgason. 2004. Distinctive [voice] does not imply regressive assimilation: Evidence from Swedish. International Journal of English Studies 4(2). 53–71.<br/>
-Honeybone, P. 2005. Diachronic evidence in segmental phonology: The case of obstruent laryngeal specifications. In van Oostendorp, M. and J. van de Weijer (eds.) The internal organization of phonological segments. Mouton de Gruyter. 319–354. Also available at http://www.lel.ed.ac.uk/homes/patrick/diachev.pdf.<br/>
-Cyran, E. 2012. Cracow sandhi voicing is neither phonological nor phonetic. It is both phonological and phonetic. In Cyran, E. et al. (eds.) Sound, structure and sense. Studies in memory of Edmund Gussmann. Wydawnictwo KUL. 153–184. https://www.kul.pl/files/30/publikacje/Cyran_2012_Cracow_voicing_in_neither….pdf.<br/>
-Cyran, E. 2014. Between phonology and phonetics: Polish voicing. (Studies in Generative Grammar 118.) Mouton de Gruyter.<br/>
-Balogné Bérces, K. and B. Huszthy. 2018. Laryngeal relativism predicts Italian. Yearbook of the Poznań Linguistic Meeting 4. 153–177. https://pressto.amu.edu.pl/index.php/yplm/article/view/yplm-2018-0007/28342.<br/>
-Raimy, E. 2021. Privativity and ternary phonological behavior. In Bendjaballah, S. et al. (eds.) Perspectives on Element Theory. Mouton de Gruyter. 65–110. https://doi.org/10.1515/9783110691948-004.<br/>
-Starčević, A. 2024. Another fortis-lenis language: A reanalysis of Old English obstruents. Acta Linguistica Academica 71(3). 259–308. https://doi.org/10.1556/2062.2023.00705.
+* Lisker, L. and A. S. Abramson. 1964. A cross-linguistic study of voicing in initial stops: Acoustical measurements. WORD 20. 384–422. [https://doi.org/10.1080/00437956.1964.11659830](https://doi.org/10.1080/00437956.1964.11659830).
+* Iverson, G. K. and J. C. Salmons. 1995. Aspiration and laryngeal representation in Germanic. Phonology 12. 369–396. https://doi.org/10.1017/S0952675700002566. https://www.jstor.org/stable/4420084.
+* Avery, P. and W. J. Idsardi. 2001. Laryngeal dimensions, completion and enhancement. In T. A. Hall (ed.) Distinctive feature theory. Mouton de Gruyter. 41–70. https://doi.org/10.1515/9783110886672.41.<br/>
+* Van Rooy, B. and D. P. Wissing. 2001. Distinctive [voice] implies regressive voicing assimilation. In T. Hall (ed.) Distinctive feature theory. Mouton de Gruyter. 295–334. https://doi.org/10.1515/9783110886672.295.<br/>
+* Ringen, C. and P. Helgason. 2004. Distinctive [voice] does not imply regressive assimilation: Evidence from Swedish. International Journal of English Studies 4(2). 53–71.<br/>
+* Honeybone, P. 2005. Diachronic evidence in segmental phonology: The case of obstruent laryngeal specifications. In van Oostendorp, M. and J. van de Weijer (eds.) The internal organization of phonological segments. Mouton de Gruyter. 319–354. Also available at http://www.lel.ed.ac.uk/homes/patrick/diachev.pdf.<br/>
+* Cyran, E. 2012. Cracow sandhi voicing is neither phonological nor phonetic. It is both phonological and phonetic. In Cyran, E. et al. (eds.) Sound, structure and sense. Studies in memory of Edmund Gussmann. Wydawnictwo KUL. 153–184. https://www.kul.pl/files/30/publikacje/Cyran_2012_Cracow_voicing_in_neither….pdf.<br/>
+* Cyran, E. 2014. Between phonology and phonetics: Polish voicing. (Studies in Generative Grammar 118.) Mouton de Gruyter.<br/>
+* Balogné Bérces, K. and B. Huszthy. 2018. Laryngeal relativism predicts Italian. Yearbook of the Poznań Linguistic Meeting 4. 153–177. https://pressto.amu.edu.pl/index.php/yplm/article/view/yplm-2018-0007/28342.<br/>
+* Raimy, E. 2021. Privativity and ternary phonological behavior. In Bendjaballah, S. et al. (eds.) Perspectives on Element Theory. Mouton de Gruyter. 65–110. https://doi.org/10.1515/9783110691948-004.<br/>
+* Starčević, A. 2024. Another fortis-lenis language: A reanalysis of Old English obstruents. Acta Linguistica Academica 71(3). 259–308. https://doi.org/10.1556/2062.2023.00705.
