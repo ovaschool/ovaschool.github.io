@@ -30,7 +30,7 @@ exclude: true
 [_Overview of Substance Free Logical Phonology_](zagreb2025-cs/reiss-substancefreephonology.md) (Charles Reiss)<br/>
 [_Classical and current models of autosegmental phonology_](zagreb2025-cs/balogneberces-autosegmental.md) (Katalin Balogné-Bérces)<br/>
 [_Laryngeal realism/relativism_](zagreb2025-cs/balogneberces-laryngeal.md) (Katalin Balogné-Bérces)<br/>
-[_Exceptionality_](zagreb2025-cs/gorman-exceptionlity.md) (Kyle Gorman)<br/>
+[_Exceptionality_](zagreb2025-cs/gorman-exceptionality.md) (Kyle Gorman)<br/>
 [_Neurobiology of language and speech_](zagreb2025-cs/volonec-neurobiology.md) (Veno Volenec)<br/>
 [_Theories of phonotactics_](zagreb2025-cs/gorman-phonotactics.md) (Kyle Gorman)<br/>
 [_What is a prosodic phrase? Grammatical vs. processing perspectives_](zagreb2025-cs/bishop-prosodicphrase.md)(Jason Bishop)<br/>

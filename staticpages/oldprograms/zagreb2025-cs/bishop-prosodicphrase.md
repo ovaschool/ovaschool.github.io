@@ -13,10 +13,10 @@ We will first consider the original work in segmental phonology that motivated t
 
 Some tentative readings<br/>
 
-    Bishop, J. & Intlekofer, D. (2020). Lower working memory capacity is associated with shorter prosodic phrases: Implications for speech production planning. Proceedings of Speech Prosody 10, 191-195.<br/>
-    Ferreira, F., & Karimi, H. (2015). Prosody, performance, and cognitive skill: Evidence from individual differences. In L. Frazier & E. Gibson (Eds.): Explicit and implicit prosody in sentence processing: Studies in honor of Janet Dean Fodor. (pp 119-152). Springer.<br/>
-    Keating, P. (2006). Phonetic encoding of prosodic structure. In J. Harrington & M. Tabain: Speech production: Models, phonetic processes, and techniques. (pp. 167-186). New York and Hove: Psychology Press.<br/>
-    Keating, P., & Shattuck-Hufnagel, S. (2002). A prosodic view of word form encoding for speech production. UCLA Working Papers in Phonetics, 101, 112-156.<br/>
-    Ladd, R. (1996). Intonational phonology. Cambridge: Cambridge University Press. (Especially chapter section 6.3 on ‘prosodic constituency’).<br/>
-    Nespor, M., & Vogel, I. (1986). Prosodic phonology. Dordrecht: Foris Publications. (See also the 2007 edition published by De Gruyter Mouton).<br/>
-    Watson D., Jacobs C., & Buxó-Lugo A. (2020). Prosody indexes both competence and performance. WIREs Cognitive Science,11(3), Article e1522.<br/>
+Bishop, J. & Intlekofer, D. (2020). Lower working memory capacity is associated with shorter prosodic phrases: Implications for speech production planning. Proceedings of Speech Prosody 10, 191-195.<br/>
+Ferreira, F., & Karimi, H. (2015). Prosody, performance, and cognitive skill: Evidence from individual differences. In L. Frazier & E. Gibson (Eds.): Explicit and implicit prosody in sentence processing: Studies in honor of Janet Dean Fodor. (pp 119-152). Springer.<br/>
+Keating, P. (2006). Phonetic encoding of prosodic structure. In J. Harrington & M. Tabain: Speech production: Models, phonetic processes, and techniques. (pp. 167-186). New York and Hove: Psychology Press.<br/>
+Keating, P., & Shattuck-Hufnagel, S. (2002). A prosodic view of word form encoding for speech production. UCLA Working Papers in Phonetics, 101, 112-156.<br/>
+Ladd, R. (1996). Intonational phonology. Cambridge: Cambridge University Press. (Especially chapter section 6.3 on ‘prosodic constituency’).<br/>
+Nespor, M., & Vogel, I. (1986). Prosodic phonology. Dordrecht: Foris Publications. (See also the 2007 edition published by De Gruyter Mouton).<br/>
+Watson D., Jacobs C., & Buxó-Lugo A. (2020). Prosody indexes both competence and performance. WIREs Cognitive Science,11(3), Article e1522.<br/>

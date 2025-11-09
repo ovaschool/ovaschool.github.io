@@ -7,12 +7,12 @@ exclude: true
 
 This course will consider very simple phonological  phenomena in the context of ‘big picture’ issues in linguistics and cognitive science,  such as<br/> 
 
-    * how to understand neutralization patterns in terms of formal logic
-    * the Subset Principle in phonology
-    * epistemic boundedness in phonology 
-    * the Argument from the Poverty of the Stimulus in phonology
-    * the initial state and the learning path in phonology
-    * empiricism and rationalism with respect to features and syllable structure—what can a child  learn from experience and what must be built-in?
+* how to understand neutralization patterns in terms of formal logic
+* the Subset Principle in phonology
+* epistemic boundedness in phonology 
+* the Argument from the Poverty of the Stimulus in phonology
+* the initial state and the learning path in phonology
+* empiricism and rationalism with respect to features and syllable structure—what can a child  learn from experience and what must be built-in?
 
 Reading suggestions<br/>
 I. Appelbaum. The lack of invariance problem and the goal of speech perception. In The 4th International Conference on Spoken Language Processing, pages 1541–1544, 1996.<br/>
