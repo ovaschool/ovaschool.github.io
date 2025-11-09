@@ -1,10 +1,10 @@
 ---
-title: Katalin Balogné-Bérces: Classical and current models of autosegmental phonology (intro)
+title: Katalin Balogné-Bérces: Classical and current models of autosegmental phonology
 permalink: /balogneautosegmental/
 layout: page
 exclude: true
 ---
-
+**Katalin Balogné-Bérces: Classical and current models of autosegmental phonology**<br/>
 
 Course material [here](https://tinyurl.com/autosegm)<br/>
 
