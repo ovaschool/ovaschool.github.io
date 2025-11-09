@@ -8,7 +8,7 @@ exclude: true
 **Syntax**<br/>
 [_Introduction to syntax_](zagreb2025-cs/khristoforova-introsyntax.md) (2 weeks) (Jenia Khristoforova) <br/>
 [_Event structure (syn-sem interface)_](zagreb2025-cs/abner-eventstructure.md) (Natasha Abner)<br/>
-[_Spooky Agreement, Agree and Phi-syntax_](zagreb2025-cs/meadows-sppokyagreement.md) (Tom Meadows)<br/>
+[_Spooky Agreement, Agree and Phi-syntax_](zagreb2025-cs/meadows-spookyagreement.md) (Tom Meadows)<br/>
 [_(*)ABA effects and their theoretical implications_](zompi-abaeffects.md) (Stan Zompì)<br/>
 [_Challenging theories: Insights from sign language syntax_](zagreb2025-cs/khristoforova-signlanguagesyntax.md) (Jenia Khristoforova)<br/>
 [_Markedness in morphosyntax_](zagreb2025-cs/puskargallien-markednessinmorphosyntax.md) (Zorica Puškar-Gallien)<br/>
@@ -16,13 +16,13 @@ exclude: true
 [_Where it all began: Introduction to Syntactic Structures_](zagreb2025-cs/bailyn-syntacticstructures.md) (John Bailyn)<br/>
 
 **Semantics**<br/>
-_Introduction to semantics_ (2 weeks) (Rajesh Bhatt & Jon Ander Mendia)<br/>
-_Degree_ (Rajesh Bhatt & Jon Ander Mendia)<br/> 
-_Speech acts: Undertaking and influencing commitments_ (Ashwini Deo & David Beaver)<br/>
-_What sentences do_ (Tom Roberts)<br/>
-_What embedded sentences do_ (Tom Roberts)<br/>
-_Structural complexity in formal pragmatics_ (Nina Haslinger)<br/>
-_Interpreting focus: Bridging theory and incremental measures_ (Morwenna Hoeks)<br/>
+[_Introduction to semantics_](zagreb2025-cs/bhattmendia-introsemantics.md) (2 weeks) (Rajesh Bhatt & Jon Ander Mendia)<br/>
+[_Degree_](zagreb2025-cs/bhattmendia-degree.md) (Rajesh Bhatt & Jon Ander Mendia)<br/> 
+[_Speech acts: Undertaking and influencing commitments_ ](zagreb2025-cs/deobeaver-speechacts.md)(Ashwini Deo & David Beaver)<br/>
+[_What sentences do_ ](zagreb2025-cs/roberts-whatsentencesdo.md)(Tom Roberts)<br/>
+[_What embedded sentences do_](zagreb2025-cs/roberts-whatembeddedsentencesdo.md) (Tom Roberts)<br/>
+[_Structural complexity in formal pragmatics_ ](zagreb2025-cs/haslinger-structuralcomplexity.md)(Nina Haslinger)<br/>
+[_Interpreting focus: Bridging theory and incremental measures_ ](zagreb2025-cs/hoeks-interpretingfocus.md)(Morwenna Hoeks)<br/>
 
 **Phonology**<br/>
 _Introduction to formal generative phonology_ (Veno Volenec)<br/>
