@@ -4,6 +4,7 @@ permalink: /khristoforovasignlanguage/
 layout: page
 exclude: true
 ---
+**Jenia Khristoforova: Challenging Theories: Insights from Sign Language Syntax**<br/>
 
 Course material [here](https://drive.google.com/drive/folders/1FTXaPsUcLLOm50ynZk8MXB-GvbITleKe)<br/>
 
