@@ -3,6 +3,7 @@ layout: page
 title: Kyle Gorman: Exceptionality
 permalink: /gormanexceptionality/
 ---
+**Kyle Gorman: Exceptionality**<br/>
 
 Course material [here](https://wellformedness.com/courses/exceptionality/)<br/>
 
