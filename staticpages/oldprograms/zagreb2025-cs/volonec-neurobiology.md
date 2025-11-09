@@ -11,7 +11,7 @@ This advanced course surveys the essential topics and current issues in the cogn
 
 Reading suggestions:<br/>
 
-Kemmerer, D. 2022. Cognitive Neuroscience of Language. New York & London: Routledge.<br/>
-Guenther, F. H. 2016. Neural Control of Speech. Cambridge, MA: MIT Press.<br/>
-Hickok, G & Small, S. L. 2016. Neurobiology of Language. London: Elsevier.<br/>
-Friederici, A. 2017. Language in Our Brain – The Origins of a Uniquely Human Capacity. Cambridge, MA: MIT Press.
+* Kemmerer, D. 2022. Cognitive Neuroscience of Language. New York & London: Routledge.
+* Guenther, F. H. 2016. Neural Control of Speech. Cambridge, MA: MIT Press.
+* Hickok, G & Small, S. L. 2016. Neurobiology of Language. London: Elsevier.
+* Friederici, A. 2017. Language in Our Brain – The Origins of a Uniquely Human Capacity. Cambridge, MA: MIT Press.
