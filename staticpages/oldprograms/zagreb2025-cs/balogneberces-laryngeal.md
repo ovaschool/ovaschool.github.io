@@ -4,6 +4,7 @@ permalink: /balognelaryngeal/
 layout: page
 exclude: true
 ---
+**Katalin Balogné-Bérces: Laryngeal realism/relativism**<br/>
 
 Course material [here](https://tinyurl.com/larreal)<br/>
 
