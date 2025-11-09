@@ -4,6 +4,7 @@ permalink: /reissoverview/
 layout: page
 exclude: true
 ---
+**Charles Reiss: Overview of Substance Free Logical Phonolog**y<br/>
 
 This course introduces the mechanisms of Logical Phonology, which are based on simple set-theoretic notions. We deconstruct the rightarrow -> of traditional phonological rules into three basic operators and show how combinations of rules relying on these operators are sufficient, not only to model a vast range of phonological patterns, but also to reduce much apparent `exceptionality’ to regular phonology. We formalize the notion of natural classes, which goes a long way towards developing a theory of what is a possible rule. The last day of class will consist of a workshop in which students, alone or in small groups, develop original  LP analyses for a phonological pattern.<br/>
 
