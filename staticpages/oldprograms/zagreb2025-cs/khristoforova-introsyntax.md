@@ -1,5 +1,5 @@
 ---
-title: Jenia Khristoforova: Introduction to syntax I
+title: Jenia Khristoforova & Stan Zompì: Introduction to syntax
 permalink: /khristoforovaintro/
 layout: page
 exclude: true
