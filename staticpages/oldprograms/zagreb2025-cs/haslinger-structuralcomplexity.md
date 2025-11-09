@@ -1,4 +1,3 @@
-
 ---
 title: Nina Haslinger: Structural complexity and formal pragmatics
 permalink: /haslinger/
