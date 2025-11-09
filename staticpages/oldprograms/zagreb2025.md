@@ -33,6 +33,6 @@ exclude: true
 [_Exceptionality_](zagreb2025-cs/gorman-exceptionality.md) (Kyle Gorman)<br/>
 [_Neurobiology of language and speech_](zagreb2025-cs/volonec-neurobiology.md) (Veno Volenec)<br/>
 [_Theories of phonotactics_](zagreb2025-cs/gorman-phonotactics.md) (Kyle Gorman)<br/>
-[_What is a prosodic phrase? Grammatical vs. processing perspectives_](zagreb2025-cs/bishop-prosodicphrase.md)(Jason Bishop)<br/>
+[_What is a prosodic phrase? Grammatical vs. processing perspectives_](zagreb2025-cs/bishop-prosodicphrase.md) (Jason Bishop)<br/>
 [_Phonology and cognitive science_](zagreb2025-cs/reiss-phonologycogsci.md) (Charles Reiss)
 
