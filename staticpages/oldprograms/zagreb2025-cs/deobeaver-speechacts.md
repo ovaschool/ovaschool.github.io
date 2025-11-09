@@ -4,7 +4,7 @@ permalink: /deobeaver/
 layout: page
 exclude: true
 ---
-
+**Ashwini Deo & David Beaver: Speech Acts: Undertaking and Influencing Commitments**<br/>
 
 Course material [here](https://shorturl.at/AdbrU)<br/>
 
