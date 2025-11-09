@@ -4,6 +4,7 @@ permalink: /haslinger/
 layout: page
 exclude: true
 ---
+**Nina Haslinger: Structural complexity and formal pragmatics**<br/>
 
 * [Handout 1](http://ninahaslinger.net/egg2025/alternatives_1.pdf) 
 * [Handout 2](http://ninahaslinger.net/egg2025/alternatives_2.pdf)
