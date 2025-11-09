@@ -5,15 +5,11 @@ layout: page
 exclude: true
 ---
 
-[Handout 1](http://ninahaslinger.net/egg2025/alternatives_1.pdf)<br/>
-
-[Handout 2](http://ninahaslinger.net/egg2025/alternatives_2.pdf)<br/>
-
-[Handout 3](http://ninahaslinger.net/egg2025/alternatives_3.pdf)<br/>
-
-[Schwarz & Wagner 2024](https://ling.auf.net/lingbuzz/008588)<br/>
-
-[Talk by Hirsch 2024](https://youtu.be/b51r28b5z_Q?feature=shared)<br/>
+* [Handout 1](http://ninahaslinger.net/egg2025/alternatives_1.pdf) 
+* [Handout 2](http://ninahaslinger.net/egg2025/alternatives_2.pdf)
+* [Handout 3](http://ninahaslinger.net/egg2025/alternatives_3.pdf)
+* [Schwarz & Wagner 2024](https://ling.auf.net/lingbuzz/008588)
+* [Talk by Hirsch 2024](https://youtu.be/b51r28b5z_Q?feature=shared)
 
 Over the last few decades, much work in formal pragmatics has focused on the issue of whether the syntactic complexity of an expression restricts the range of meanings an expression can have and the amount of semantic variability it permits. In this course, we will critically examine some recent debates around this issue, focusing especially on the idea that the alternatives used to strengthen the meaning of an expression cannot exceed it in complexity (Katzir 2007, Fox & Katzir 2011).<br/>
 
