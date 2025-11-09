@@ -29,14 +29,14 @@ Prosodic typology<br/>
 
 Some tentative readings<br/>
 
-Beckman, M. & Ayers Elam, G. (1997). Guidelines for ToBI Labelling (Ver. 3). Ms, The Ohio State University.<br/>
-Beckman, M. & Edwards, J. (1994). Articulatory evidence for differentiating stress categories. In P. Keating (Ed): Papers in laboratory phonology III. Cambridge University Press. (pp. 7–33).<br/>
-Beckman, M., Hirschberg, J. & Shattuck-Hufnagel, S. (2005). The original ToBI system and the evolution of the ToBI framework. In: Jun (2007).<br/>
-Beckman, M. & Pierrehumbert, J. (1986) Intonational structure in Japanese and English. Phonology Yearbook, III, 15-70.<br/>
-Hellmuth, S. & Chahal, D. (2014). The intonation of Lebanese and Egyptian Arabic. In: Jun (2014).<br/>
-Jun, S.-A. (2007). Korean intonational phonology and prosodic transcription. In: Jun (2007).<br/>
-Jun, S.-A. (2007). Prosodic Typology I. Oxford University Press.<br/>
-Jun, S.-A. (2014). Prosodic Typology II. Oxford University Press.<br/>
-Khan, S. (2014) The Intonational Phonology of Bangladeshi Standard Bengali. In: Jun (2014).<br/>
-Ladd, R. (1996/2008). Intonational Phonology. Cambridge University Press.<br/>
-Ladd, R. (2014). Simultaneous structure in phonology. Oxford University Press.
+* Beckman, M. & Ayers Elam, G. (1997). Guidelines for ToBI Labelling (Ver. 3). Ms, The Ohio State University.
+* Beckman, M. & Edwards, J. (1994). Articulatory evidence for differentiating stress categories. In P. Keating (Ed): Papers in laboratory phonology III. Cambridge University Press. (pp. 7–33).
+* Beckman, M., Hirschberg, J. & Shattuck-Hufnagel, S. (2005). The original ToBI system and the evolution of the ToBI framework. In: Jun (2007).
+* Beckman, M. & Pierrehumbert, J. (1986) Intonational structure in Japanese and English. Phonology Yearbook, III, 15-70.
+* Hellmuth, S. & Chahal, D. (2014). The intonation of Lebanese and Egyptian Arabic. In: Jun (2014).
+* Jun, S.-A. (2007). Korean intonational phonology and prosodic transcription. In: Jun (2007).
+* Jun, S.-A. (2007). Prosodic Typology I. Oxford University Press.
+* Jun, S.-A. (2014). Prosodic Typology II. Oxford University Press.
+* Khan, S. (2014) The Intonational Phonology of Bangladeshi Standard Bengali. In: Jun (2014).
+* Ladd, R. (1996/2008). Intonational Phonology. Cambridge University Press.
+* Ladd, R. (2014). Simultaneous structure in phonology. Oxford University Press.

@@ -13,6 +13,6 @@ This course is an introduction to phonology from the perspective of formal gener
 
 Reading suggestions:<br/>
 
-Kenstowicz, M. 1994. Phonology in Generative Grammar. Chapters 2 and 3. Oxford: Blackwell.<br/>
-Zsiga, E. 2024. The Sounds of Language. An Introduction to Phonetics and Phonology. 2nd edition. Chapters 10-13. Oxford: Wiley–Blackwell.
+* Kenstowicz, M. 1994. Phonology in Generative Grammar. Chapters 2 and 3. Oxford: Blackwell.
+* Zsiga, E. 2024. The Sounds of Language. An Introduction to Phonetics and Phonology. 2nd edition. Chapters 10-13. Oxford: Wiley–Blackwell.
 
