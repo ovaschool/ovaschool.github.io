@@ -4,6 +4,7 @@ permalink: /bishopprosodicphrase/
 layout: page
 exclude: true
 ---
+**Jason Bishop: What is a prosodic phrase? Grammatical vs. processing perspectives**<br/>
 
 The idea that words are grouped into larger, sound-based units is now mostly taken for granted by linguists and psycholinguists. However, motivations for assuming prosodic structure, theories of the structure’s form, and especially ideas about the function of this structure, remain surprisingly diverse across subfields. But not clearly irreconcilable. In this course we will review the empirical facts that have led different linguistic subfields to converge on the idea of prosodic groupings, with one overarching question in mind: can a prosodic unit be all these things simultaneously?<br/>
 
