@@ -6,7 +6,7 @@ exclude: true
 ---
 
 **Syntax**<br/>
-_Introduction to syntax_ (2 weeks) (Jenia Khristoforova & Stan Zompì)<br/>
+[_Introduction to syntax_](zagreb-cs/khristoforova-introsyntax.html) (2 weeks) (Jenia Khristoforova) <br/>
 _Event structure (syn-sem interface)_ (Natasha Abner)<br/>
 _Spooky Agreement, Agree and Phi-syntax_ (Tom Meadows)<br/>
 _(*)ABA effects and their theoretical implications_ (Stan Zompì)<br/>
