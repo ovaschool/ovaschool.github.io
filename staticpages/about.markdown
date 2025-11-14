@@ -6,7 +6,7 @@ permalink: /about/
 
 ### What is OVA?
 
-The OVA (Omnes Voces Acceptamus) Summer School is the successor to what was formerly known as the EGG (Eastern Generative Grammar) School. Since 1994, the EGG has been held annually in former Eastern Bloc countries. The original goal of the school was to offer an affordable program in generative linguistics, particularly in regions where access to generative syntax, semantics and phonology had been limited — first for political reasons during the communist era, and later for economic reasons in the early post-communist years.
+The OVA (Omnes Voces Acceptamus) Summer School is a successor to what was formerly known as the EGG (Eastern Generative Grammar) School. Since 1994, the EGG has been held annually in former Eastern Bloc countries. The original goal of the school was to offer an affordable program in generative linguistics, particularly in regions where access to generative syntax, semantics and phonology had been limited — first for political reasons during the communist era, and later for economic reasons in the early post-communist years.
 
 
 ### Why EGG is OVA now
