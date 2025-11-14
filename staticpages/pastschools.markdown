@@ -4,7 +4,7 @@ title: Past schools
 permalink: /pastschools/
 ---
 
-Throughout the years, the (former EGG) school has been hosted by the following institutions.
+OVA is a successor of the Eastern Generative Summer School (EGG). Throughout the years, the EGG school has been hosted by the following institutions.
 Click on a school for more information. (Information about schools before 2014 still to come.)
 
 * [Zagreb 2025](/zagreb2025)
