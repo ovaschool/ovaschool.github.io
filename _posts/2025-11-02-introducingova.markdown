@@ -10,7 +10,7 @@ Hello everyone,
 
 as many of you are aware, the board of the EGG summer school split up in
 September 2025. This post is to say that we (Berit, Deniz, Lena and Petra) will
-continue organizing the school under its new name, **OVA**. 
+continue organizing the school under a new name, **OVA**. 
 
 <!--more-->
 
