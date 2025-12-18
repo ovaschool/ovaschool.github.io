@@ -25,7 +25,7 @@ and fair organizational body, and one capable of standing for basic principles o
 safety, inclusivity and gender representation. (To read more on why the former
 EGG board was incapable of guaranteeing this, see [here](/clean-break/).)
 
-OVA, like EGG, is a summer school on generative linguistics taught by leading members of our field
+OVA is a summer school on generative linguistics taught by leading members of our field
 and hosted by different Eastern European countries. It offers student-friendly
 pricing and financial support for students from former countries of the Eastern
 Bloc. It is a venue for informal exchanges as well as stimulating intellectual
