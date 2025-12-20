@@ -9,21 +9,15 @@ permalink: /introducing-ova/
 Hello everyone,
 
 as many of you are aware, the board of the EGG summer school split up in
-September 2025. This post is to say that we (Berit, Deniz, Lena and Petra) will
-continue organizing a school under a new name, **OVA**. 
+September 2025. This post is to say that we, four of the former EGG members (Berit, Deniz, Lena and Petra) will
+continue organizing a school, **OVA**. 
 
 <!--more-->
 
-With this change, we wish to avoid a situation in which there would have been
-two competing summer schools with the same name. Not only is this is confusing
-and uncomfortable, but students, teachers, hosts and funders should not have to
-bear the burden of making difficult decisions or 'take sides' just because we
-did.
-
-This change opens a new chapter for the school, defined by a more transparent
+OVA is defined by a transparent
 and fair organizational body, and one capable of standing for basic principles of
-safety, inclusivity and gender representation. (To read more on why the former
-EGG board was incapable of guaranteeing this, see [here](/clean-break/).)
+safety, inclusivity and gender representation (the former
+EGG board was incapable of guaranteeing this, which is why we left). 
 
 OVA is a summer school on generative linguistics taught by leading members of our field
 and hosted by different Eastern European countries. It offers student-friendly
