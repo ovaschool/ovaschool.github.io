@@ -14,7 +14,7 @@ continue organizing a school, **OVA**.
 
 <!--more-->
 
-OVA is defined by a transparent
+The new school is defined by a transparent
 and fair organizational body, and one capable of standing for basic principles of
 safety, inclusivity and gender representation (the former
 EGG board was incapable of guaranteeing this, which is why we left). 
