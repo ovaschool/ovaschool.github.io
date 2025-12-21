@@ -21,7 +21,7 @@ So far, the EGG board consisted of the following members:
 
 * 2 phonology members (Tobias Scheer and Eugeniusz Cyran) 
 * 1 syntax member (Magdalena Lohninger) 
-* 1 semantics member (Deniz Özildız and Berit Gehrke “shared” this seat) 
+* 1 semantics member (Deniz Özyıldız and Berit Gehrke “shared” this seat) 
 * 1 logistics member (Petra Charvat)
 
 There have been discrepancies within the EGG board for multiple years now, mainly concerning the following topics: 
