@@ -8,10 +8,7 @@ permalink: /about/
 
 The OVA (Omnes Voces Acceptamus) Summer School is an alternative to the EGG (Eastern Generative Grammar) Summer School. OVA's goal is to offer an affordable program in generative linguistics, particularly in regions where access to generative syntax, semantics and phonology had historically been limited, for political and/or economical reasons.
 
-
-### OVA organizers
-
-In 2025, the organizing team of EGG split up, and four of the six board members went on to create OVA — a school defined by a more transparent and fair organizational body, and one capable of standing for basic principles of safety, inclusivity and gender representation. 
+In 2025, the organizing team of EGG split up, and four of the six board members went on to create OVA — a school defined by a transparent and fair organizational body, and one capable of standing for basic principles of safety, inclusivity and gender representation. 
 
 
 ### Costs and student grants
