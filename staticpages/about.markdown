@@ -11,7 +11,7 @@ The OVA (Omnes Voces Acceptamus) Summer School is a successor and alternative to
 
 ### EGG and OVA
 
-In 2025, the organizing team of EGG split up, and four of the six board members went on to create OVA — a school defined by a more transparent and fair organizational body, and one capable of standing for basic principles of safety, inclusivity and gender representation. (To read more on why the former EGG board was incapable of guaranteeing this, see [here](/clean-break/) and why we chose a new name, see [here](/introducing-ova/).)
+In 2025, the organizing team of EGG split up, and four of the six board members went on to create OVA — a school defined by a more transparent and fair organizational body, and one capable of standing for basic principles of safety, inclusivity and gender representation. 
 
 
 ### Costs and student grants
@@ -54,6 +54,6 @@ with a range of diverse and inspiring role models.
 We aim to keep the barrier between students and teachers as low as possible — everyone is welcome, stays in the same dorms, and students, teachers, and organizers often spend time together outside the regular school hours. This informal atmosphere is meant to allow all participants, students and teachers, to spend time working on linguistics in a friendly and open setting. 
 
 
-Just like there was and is at EGG, there will be plenty of socializing outside the classroom at OVA. To ensure that everyone feels welcome and safe, OVA also has a Code of Conduct that applies to all participants.
+There will be plenty of socializing outside the classroom at OVA. To ensure that everyone feels welcome and safe, OVA also has a Code of Conduct that applies to all participants.
 
 
