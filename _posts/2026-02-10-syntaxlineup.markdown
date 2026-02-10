@@ -1,0 +1,12 @@
+**Here is our syntax line-up for OVA 2026:**
+
+- [Kenyon Branan](https://sites.google.com/view/kbranan/home) (Göttingen)
+- [Imke Driemel](https://www.york.ac.uk/language-linguistic-science/people/imkedriemel/) (Yorck)
+- Matěj Kundrát (Tromsø)
+- [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Zlín)
+- [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam) 
+
+**Syntax-semantics interface:**
+- [Éva Kardos](https://evakardos.com/) (Debrecen)
+
+**Stay tuned for more updates on teachers in the other tracks!**
