@@ -6,7 +6,9 @@
 - [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Zlín)
 - [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam) 
 
+
 **Syntax-semantics interface:**
 - [Éva Kardos](https://evakardos.com/) (Debrecen)
+
 
 **Stay tuned for more updates on teachers in the other tracks!**
