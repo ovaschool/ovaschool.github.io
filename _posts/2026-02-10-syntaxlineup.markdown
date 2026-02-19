@@ -2,7 +2,7 @@
 layout: post
 title:  "OVA 2026: Syntax line-up"
 date:   2026-02-10 
-permalink: /introducing-ova/
+permalink: /syntax-lineup-26/
 # categories: jekyll update
 ---
 
