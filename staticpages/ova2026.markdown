@@ -1,0 +1,39 @@
+---
+layout: page
+title: OVA 2026 in Debrecen
+permalink: /ova2026/
+---
+
+OVA 2026 takes place at the University of Debrecen, Hungary from July 27-August
+7, 2026. Get excited!
+
+Information about registration, grant applications and dorms will follow
+shortly, but please email us, if you would like to tell us about your
+situation.
+
+The confirmed line-up of of syntax and semantics teachers is below. We will
+announce phonology line-up at the beginning of March.
+
+### OVA teachers
+
+## Syntax
+
+- [Kenyon Branan](https://sites.google.com/view/kbranan/home) (Göttingen)
+- [Imke Driemel](https://www.york.ac.uk/language-linguistic-science/people/imkedriemel/) (York)
+- Matěj Kundrát (Tromsø)
+- [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Zlín)
+- [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
+
+
+## Syntax-semantics interface:
+
+- [Éva Kardos](https://evakardos.com/) (Debrecen)
+
+## Semantics 
+
+- [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover)
+- [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
+- [Maria Onoeva](https://mariaonoeva.github.io/) (Prague / HU Berlin)
+- [Deniz Özyıldız](https://deniz.fr/) (Stuttgart)
+- [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht)
+- [Vesela Simeonova](https://kfunigraz.academia.edu/VeselaSimeonova) (Graz)
