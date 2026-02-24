@@ -16,7 +16,7 @@ announce the phonology line-up at the beginning of March.
 
 ### OVA teachers
 
-## Syntax
+#### Syntax
 
 - [Kenyon Branan](https://sites.google.com/view/kbranan/home) (Göttingen)
 - [Imke Driemel](https://www.york.ac.uk/language-linguistic-science/people/imkedriemel/) (York)
@@ -25,11 +25,11 @@ announce the phonology line-up at the beginning of March.
 - [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
 
 
-## Syntax-semantics interface:
+#### Syntax-semantics interface
 
 - [Éva Kardos](https://evakardos.com/) (Debrecen)
 
-## Semantics 
+#### Semantics 
 
 - [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover)
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
