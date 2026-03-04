@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "OVA 2026: Semantics line-up"
+title:  "OVA 2026: Phonology line-up"
 date:   2026-02-19 
-permalink: /semantics-lineup-26/
+permalink: /phonology-lineup-26/
 # categories: jekyll update
 ---
 
