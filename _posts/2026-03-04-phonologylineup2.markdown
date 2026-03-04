@@ -6,13 +6,11 @@ permalink: /semantics-lineup-26/
 # categories: jekyll update
 ---
 
-[Test] Here is our semantics line-up for OVA 2026:
+Here is our phonology line-up for OVA 2026:
 
-- [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover)
-- [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
-- [Maria Onoeva](https://mariaonoeva.github.io/) (Prague / HU Berlin)
-- [Deniz Özyıldız](https://deniz.fr/) (Stuttgart)
-- [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht)
-- [Vesela Simeonova](https://kfunigraz.academia.edu/VeselaSimeonova) (Graz)<br/><br/>
+- [Yuriy Kushnir](https://yuriykushnir.com/) (Leipzig)
+- [Natalia Kuznetsova](https://unicatt.academia.edu/NataliaKuznetsova) (Università Cattolica del Sacro Cuore)
+- [Clàudia Pons-Moll](https://claudiaponsmoll.weebly.com) (Universitat Autònoma de Barcelona)
+- [Guy Tabachnik](https://gtabach.github.io/) (Brno)<br/><br/>
 
-Stay tuned for more updates on teachers in phonology!
+In each track we will add 1-2 more people. We will also soon announce course titles and open the registration soon. Stay tuned!
