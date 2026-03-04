@@ -8,7 +8,7 @@ permalink: /phonology-lineup-26/
 
 Here is our phonology line-up for OVA 2026:
 
-- [Yuryi Kushnir](https://yuriykushnir.com/) (Leipzig)
+- [Yuriy Kushnir](https://yuriykushnir.com/) (Leipzig)
 - [Natalia Kuznetsova](https://unicatt.academia.edu/NataliaKuznetsova) (Università Cattolica del Sacro Cuore)
 - [Clàudia Pons-Moll](https://claudiaponsmoll.weebly.com) (Universitat Autònoma de Barcelona)
 - [Guy Tabachnik](https://gtabach.github.io/) (Brno)<br/><br/>
