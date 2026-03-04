@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OVA 2026: Phonology line-up"
-date:   2026-02-19 
+date:   2026-03-04 
 permalink: /phonology-lineup-26/
 # categories: jekyll update
 ---
