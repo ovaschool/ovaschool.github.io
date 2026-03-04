@@ -13,4 +13,4 @@ Here is our phonology line-up for OVA 2026:
 - [Clàudia Pons-Moll](https://claudiaponsmoll.weebly.com) (Universitat Autònoma de Barcelona)
 - [Guy Tabachnik](https://gtabach.github.io/) (Brno)<br/><br/>
 
-In each track we will add 1-2 more people. We will also soon announce course titles and open the registration soon. Stay tuned!
+In each track we will add 1-2 more people. We will also soon announce course titles and open the registration. Stay tuned!
