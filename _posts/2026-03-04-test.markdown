@@ -1,4 +1,4 @@
-[---](---)
+---
 layout: post
 title:  "OVA 2026: Semantics line-up"
 date:   2026-02-19 
