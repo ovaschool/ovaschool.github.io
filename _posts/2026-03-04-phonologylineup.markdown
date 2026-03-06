@@ -10,7 +10,7 @@ Here is our phonology line-up for OVA 2026:
 
 - [Yuriy Kushnir](https://yuriykushnir.com/) (Leipzig)
 - [Natalia Kuznetsova](https://unicatt.academia.edu/NataliaKuznetsova) (Università Cattolica del Sacro Cuore)
-- [Clàudia Pons-Moll](https://claudiaponsmoll.weebly.com) (Universitat de Barcelona)
+- [Clàudia Pons-Moll](https://stel.ub.edu/filologiacatalana/directori-organitzatiu/claudia-pons-moll) (Universitat de Barcelona)
 - [Guy Tabachnik](https://gtabach.github.io/) (Brno)<br/><br/>
 
 In each track we will add 1-2 more people. We will also soon announce course titles and open the registration. Stay tuned!
