@@ -11,7 +11,7 @@ Here you find information about:
 - [Teachers](#ova-teachers-and-course-titles) (still a couple missing), [course titles](#ova-teachers-and-course-titles) (gradually coming in), [course descriptions](#course-descriptions) (gradually coming in)
 - Schedule (TBA)
 - [Venue](#venue) (dorms and classrooms)
-- [Sponsors](#funding)
+- [Sponsors](#sponsors)
 
 ### OVA teachers and course titles
 
