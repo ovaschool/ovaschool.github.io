@@ -7,9 +7,7 @@ permalink: /ova2026/
 OVA 2026 takes place at the **University of Debrecen**, Hungary from **July 27-August
 7**, 2026. Get excited!
 
-Information about registration, grant applications and dorms will follow
-shortly, but please email us, if you would like to tell us about your
-situation.
+Information about registration, grant applications and dorms will follow shortly, but please email us, if you would like to tell us about your situation.
 
 The preliminary line-up of teachers is below; course titles are gradually coming in as well.
 
@@ -20,17 +18,27 @@ The preliminary line-up of teachers is below; course titles are gradually coming
 - [Yuriy Kushnir](https://yuriykushnir.com/) (Leipzig)
   - Lexical accent systems. An introductory course. Case study: Lithuanian (week 2)
 - [Natalia Kuznetsova](https://unicatt.academia.edu/NataliaKuznetsova) (Università Cattolica del Sacro Cuore)
+  - TBD (week 1)
+  - TBD (week 2)
+- [Shakuntala Mahanta](https://www.iitg.ac.in/hss/faculty_page_profile.php?name=MzgvUVFIK2oydWpTaXFzNUJOUkExZz09) (IIT Guwahati)
+  - Vowel harmony (week 1)
 - [Clàudia Pons-Moll](https://stel.ub.edu/filologiacatalana/directori-organitzatiu/claudia-pons-moll) (Universitat de Barcelona) (week 1)
 - [Guy Tabachnik](https://gtabach.github.io/) (Brno)
-  
+  - TBD (week 1)
+  - TBD (week 2)
+
 #### Semantics 
 
 - [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover)
   - [Searching for meaning: methods and findings in experimental (psycho)linguistics](#berry-claus-searching-for-meaning-methods-and-findings-in-experimental-psycholinguistics) (introductory)
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
-- [Maria Onoeva](https://mariaonoeva.github.io/) (Prague / HU Berlin) (week 1)
-- [Deniz Özyıldız](https://deniz.fr/) (Stuttgart) & [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht) (week 1)
+  - TBD
+- [Maria Onoeva](https://mariaonoeva.github.io/) (Prague / HU Berlin)
+  - TBD (week 1)
+- [Deniz Özyıldız](https://deniz.fr/) (Stuttgart) & [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht)
+  - TBD (week 1)
 - [Vesela Simeonova](https://kfunigraz.academia.edu/VeselaSimeonova) (Graz)
+  - TBD
 - [Yasutada Sudo](https://www.homepages.ucl.ac.uk/~ucjtudo/) (UCL)
   - Introduction to semantics
   - (one more TBD)
@@ -38,12 +46,17 @@ The preliminary line-up of teachers is below; course titles are gradually coming
 #### Syntax-semantics interface
 
 - [Éva Kardos](https://evakardos.com/) (Debrecen)
+  - TBD
 
 #### Syntax
 
 - [Kenyon Branan](https://sites.google.com/view/kbranan/home) (Göttingen)
-- [Imke Driemel](https://www.york.ac.uk/language-linguistic-science/people/imkedriemel/) (York) (week 2)
+  - TBD (week 1)
+  - TBD (week 2)
+- [Imke Driemel](https://www.york.ac.uk/language-linguistic-science/people/imkedriemel/) (York) 
+  - TBD (week 2)
 - Matěj Kundrát (Tromsø) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Zlín)
+  - TBD
 - [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
   - Introduction to syntax
   - (one more TBD)
