@@ -24,7 +24,7 @@ The preliminary line-up of teachers is below; course titles are gradually coming
   
 #### Semantics 
 
-- [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover): Searching for meaning: methods and findings in experimental (psycho)linguistics
+- [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover): [Searching for meaning: methods and findings in experimental (psycho)linguistics](####berry-claus:-searching-for-meaning:-methods-and-findings-in-experimental-(psycho)linguistics-(introductory))
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
 - [Maria Onoeva](https://mariaonoeva.github.io/) (Prague / HU Berlin) (week 1)
 - [Deniz Özyıldız](https://deniz.fr/) (Stuttgart) & [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht) (week 1)
@@ -42,6 +42,11 @@ The preliminary line-up of teachers is below; course titles are gradually coming
 - Matěj Kundrát (Tromsø) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Zlín)
 - [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
 
+### Course descriptions
+
+#### Berry Claus: Searching for meaning: methods and findings in experimental (psycho)linguistics (introductory)
+
+How do we turn letters or sounds into exciting situations in our heads and why do we often understand more than was actually said? These are two of the questions that we will explore in this course as part of the broader question of how we represent meaning in our minds. The course will provide an introduction to methods and findings from experimental and psycholinguistic semantic-pragmatic research. We will take a closer look at a selection of studies covering a variety of topics, including negation and numeral modification. There will also be opportunities to participate in considerations regarding the further advancement and expansion of existing studies and/or the planning of your own studies.
 
 
 
