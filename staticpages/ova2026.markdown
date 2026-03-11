@@ -17,19 +17,19 @@ The preliminary line-up of teachers is below; course titles still to come.
 
 #### Phonology
 
-- [Yuriy Kushnir](https://yuriykushnir.com/) (Leipzig)
+- [Yuriy Kushnir](https://yuriykushnir.com/) (Leipzig): Lexical accent systems. An introductory course. Case study: Lithuanian (week 2)
 - [Natalia Kuznetsova](https://unicatt.academia.edu/NataliaKuznetsova) (Università Cattolica del Sacro Cuore)
-- [Clàudia Pons-Moll](https://stel.ub.edu/filologiacatalana/directori-organitzatiu/claudia-pons-moll) (Universitat de Barcelona)
+- [Clàudia Pons-Moll](https://stel.ub.edu/filologiacatalana/directori-organitzatiu/claudia-pons-moll) (Universitat de Barcelona) (week 1)
 - [Guy Tabachnik](https://gtabach.github.io/) (Brno)
   
 #### Semantics 
 
-- [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover)
+- [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover): Searching for meaning: methods and findings in experimental (psycho)linguistics
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
-- [Maria Onoeva](https://mariaonoeva.github.io/) (Prague / HU Berlin)
-- [Deniz Özyıldız](https://deniz.fr/) (Stuttgart)
-- [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht)
+- [Maria Onoeva](https://mariaonoeva.github.io/) (Prague / HU Berlin) (week 1)
+- [Deniz Özyıldız](https://deniz.fr/) (Stuttgart) & [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht) (week 1)
 - [Vesela Simeonova](https://kfunigraz.academia.edu/VeselaSimeonova) (Graz)
+- [Yasutada Sudo](https://www.homepages.ucl.ac.uk/~ucjtudo/) (UCL)
 
 #### Syntax-semantics interface
 
