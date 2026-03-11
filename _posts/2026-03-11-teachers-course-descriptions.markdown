@@ -6,7 +6,7 @@ permalink: /teachers-course-descriptions/
 # categories: jekyll update
 ---
 
-Course descriptions are slowly coming in, and we are gradually adding them to the [OVA 2026 page](https://ovaschool.github.io/ova2026/). 
+Course titles are slowly coming in, and we are gradually adding them to the [OVA 2026 page](https://ovaschool.github.io/ova2026/). 
 
 We also added two more teachers to the line-up:
 - [Shakuntala Mahanta](https://www.iitg.ac.in/hss/faculty_page_profile.php?name=MzgvUVFIK2oydWpTaXFzNUJOUkExZz09) (IIT Guwahati)
