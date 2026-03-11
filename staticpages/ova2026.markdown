@@ -26,7 +26,7 @@ The preliminary line-up of teachers is below; course titles are gradually coming
 #### Semantics 
 
 - [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover)
-  - [Searching for meaning: methods and findings in experimental (psycho)linguistics](#searching-for-meaning)
+  - [Searching for meaning: methods and findings in experimental (psycho)linguistics](#berry-claus-searching-for-meaning-methods-and-findings-in-experimental-psycholinguistics-introductory)
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
 - [Maria Onoeva](https://mariaonoeva.github.io/) (Prague / HU Berlin) (week 1)
 - [Deniz Özyıldız](https://deniz.fr/) (Stuttgart) & [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht) (week 1)
