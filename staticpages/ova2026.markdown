@@ -11,6 +11,7 @@ Here you find information about:
 - [Teachers](#ova-teachers-and-course-titles) (still a couple missing), [course titles](#ova-teachers-and-course-titles) (gradually coming in), [course descriptions](#course-descriptions) (gradually coming in)
 - Schedule (TBA)
 - [Venue](#venue) (dorms and classrooms)
+- [Sponsors](#funding)
 
 ### OVA teachers and course titles
 
@@ -77,6 +78,10 @@ Level: introductory
 
 [Classrooms](https://maps.app.goo.gl/uugVS5ZaZbdZZYrP6)
 
+### Sponsors
 
+OVA 2026 is partially funded by:
+- Generative Linguistics in the Old World (GLOW)
+- Department of Slavic and Hungarian Studies, HU Berlin
 
 
