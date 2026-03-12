@@ -49,13 +49,13 @@ Here you find information about:
 #### Syntax-semantics interface
 
 - [Éva Kardos](https://evakardos.com/) (Debrecen)
-  - TBD
+  - The Syntax and Semantics of Inner Aspect
 
 #### Syntax
 
 - [Kenyon Branan](https://sites.google.com/view/kbranan/home) (Göttingen)
-  - TBD (week 1)
-  - TBD (week 2)
+  - Introduction to syntax
+  - TBD 
 - [Imke Driemel](https://www.york.ac.uk/language-linguistic-science/people/imkedriemel/) (York) 
   - TBD (week 2)
 - Matěj Kundrát (Tromsø) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Zlín)
