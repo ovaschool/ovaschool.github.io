@@ -54,15 +54,16 @@ Here you find information about:
 #### Syntax
 
 - [Kenyon Branan](https://sites.google.com/view/kbranan/home) (Göttingen)
-  - Introduction to syntax
+  - Introduction to syntax II (week 2)
   - TBD 
 - [Imke Driemel](https://www.york.ac.uk/language-linguistic-science/people/imkedriemel/) (York) 
   - TBD (week 2, advanced)
 - Matěj Kundrát (Tromsø) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Zlín)
   - TBD
 - [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
-  - Introduction to syntax
-  - TBD
+  - Introduction to syntax I (week I)
+- [Magdalena Lohninger](https://lenalohninger.wordpress.com/) (Salzburg) & [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
+  - TBA (week 2)
 
 
 ### Course descriptions
