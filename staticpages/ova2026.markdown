@@ -49,7 +49,7 @@ Here you find information about:
 #### Syntax-semantics interface
 
 - [Éva Kardos](https://evakardos.com/) (Debrecen)
-  - The Syntax and Semantics of Inner Aspect (advanced)
+  - The syntax and semantics of inner aspect (advanced)
 
 #### Syntax
 
@@ -60,11 +60,10 @@ Here you find information about:
   - Agree and agreement (week 2, advanced)
 - Matěj Kundrát (Tromsø) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Zlín)
   - TBD
-- [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
-  - Introduction to syntax I (week I)
 - [Magdalena Lohninger](https://lenalohninger.wordpress.com/) (Salzburg) & [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
   - TBA (week 2)
-
+- [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
+  - Introduction to syntax I (week I)
 
 ### Course descriptions
 
