@@ -37,11 +37,11 @@ Here you find information about:
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
   - TBD
 - [Maria Onoeva](https://mariaonoeva.github.io/) (Prague / HU Berlin)
-  - TBD (week 1)
+  - Introduction to polar questions (week 1)
 - [Deniz Özyıldız](https://deniz.fr/) (Stuttgart) & [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht)
   - TBD (week 1)
 - [Vesela Simeonova](https://kfunigraz.academia.edu/VeselaSimeonova) (Graz)
-  - TBD
+  - Evidentiality (intermediate/advanced)
 - [Yasutada Sudo](https://www.homepages.ucl.ac.uk/~ucjtudo/) (UCL)
   - Introduction to semantics
   - TBD
