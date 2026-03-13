@@ -57,7 +57,7 @@ Here you find information about:
   - Introduction to syntax II (week 2)
   - TBD 
 - [Imke Driemel](https://www.york.ac.uk/language-linguistic-science/people/imkedriemel/) (York) 
-  - TBD (week 2, advanced)
+  - Agree and agreement (week 2, advanced)
 - Matěj Kundrát (Tromsø) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Zlín)
   - TBD
 - [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
