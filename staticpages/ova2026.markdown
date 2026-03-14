@@ -63,7 +63,7 @@ Here you find information about:
 - [Magdalena Lohninger](https://lenalohninger.wordpress.com/) (Salzburg) & [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
   - Scientific problem solving for Linguists (I got 99 problems but evidence ain't one) (mid-level, week 2)
 - [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
-  - Introduction to syntax I (week I)
+  - Introduction to syntax I (week 1)
 
 ### Course descriptions
 
