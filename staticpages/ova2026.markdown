@@ -61,7 +61,7 @@ Here you find information about:
 - Matěj Kundrát (Tromsø) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Zlín)
   - TBD
 - [Magdalena Lohninger](https://lenalohninger.wordpress.com/) (Salzburg) & [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
-  - [Scientific problem solving for Linguists (I got 99 problems but evidence ain't one)](#magdalena-lohninger-timea-szarvas-scientific-problem-solving-for-linguists-i-got-99-problems-but-evidence-aint-one) (mid-level, week 2)
+  - [Scientific problem solving for linguists (I got 99 problems but evidence ain't one)](#magdalena-lohninger-timea-szarvas-scientific-problem-solving-for-linguists-i-got-99-problems-but-evidence-aint-one) (mid-level, week 2)
 - [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
   - Introduction to syntax I (week 1)<br/><br/>
 
@@ -73,7 +73,7 @@ How do we turn letters or sounds into exciting situations in our heads and why d
 
 Level: introductory<br/><br/>
 
-#### Magdalena Lohninger & Timea Szarvas: Scientific problem solving for Linguists (I got 99 problems but evidence ain't one)
+#### Magdalena Lohninger & Timea Szarvas: Scientific problem solving for linguists (I got 99 problems but evidence ain't one)
 
 In this class, two syntacticians with distinct approaches to data collection join forces to teach you how to get from a linguistic problem to theory formation. Along the way, we discuss the following topics:
 
