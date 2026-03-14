@@ -61,9 +61,9 @@ Here you find information about:
 - Matěj Kundrát (Tromsø) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Zlín)
   - TBD
 - [Magdalena Lohninger](https://lenalohninger.wordpress.com/) (Salzburg) & [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
-  - [Scientific problem solving for Linguists (I got 99 problems but evidence ain't one)](#magdalena-lohninger-and-timea-szarvas) (mid-level, week 2)
+  - [Scientific problem solving for Linguists (I got 99 problems but evidence ain't one)](#magdalena-lohninger-timea-szarvas-scientific-problem-solving-for-linguists-i-got-99-problems-but-evidence-ain-t-one) (mid-level, week 2)
 - [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
-  - Introduction to syntax I (week 1)
+  - Introduction to syntax I (week 1)<br/><br/>
 
 ### Course descriptions
 
@@ -71,11 +71,9 @@ Here you find information about:
 
 How do we turn letters or sounds into exciting situations in our heads and why do we often understand more than was actually said? These are two of the questions that we will explore in this course as part of the broader question of how we represent meaning in our minds. The course will provide an introduction to methods and findings from experimental and psycholinguistic semantic-pragmatic research. We will take a closer look at a selection of studies covering a variety of topics, including negation and numeral modification. There will also be opportunities to participate in considerations regarding the further advancement and expansion of existing studies and/or the planning of your own studies.
 
-Level: introductory
+Level: introductory<br/><br/>
 
-#### Magdalena Lohninger and Timea Szarvas: Scientific problem solving for Linguists 
-
-**(I got 99 problems but evidence ain't one)**
+#### Magdalena Lohninger & Timea Szarvas: Scientific problem solving for Linguists (I got 99 problems but evidence ain't one)
 
 In this class, two syntacticians with distinct approaches to data collection join forces to teach you how to get from a linguistic problem to theory formation. Along the way, we discuss the following topics:
 
@@ -91,7 +89,7 @@ We will break down how to move from empirical observation to formal analysis, wo
 **The empirical foundation of formal linguistic theory and its current state.**
 We will critically evaluate whether formal linguistics is facing an empirical crisis and dissect the arguments giving rise to this perspective. By examining case studies, we will discuss the prospects and limitations of the recent trend towards experimentalism. 
 
-The class is particularly suited for intermediate and advanced students who have already conducted some linguistic research of their own (e.g., seminar papers or BA/MA theses), though less experienced students will also benefit from it. While the main focus will be on syntactic research, students from other subfields will likewise be able to follow the course and profit from it.
+The class is particularly suited for intermediate and advanced students who have already conducted some linguistic research of their own (e.g., seminar papers or BA/MA theses), though less experienced students will also benefit from it. While the main focus will be on syntactic research, students from other subfields will likewise be able to follow the course and profit from it.<br/><br/>
 
 ### Venue
 
