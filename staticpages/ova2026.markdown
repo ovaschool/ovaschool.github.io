@@ -65,7 +65,7 @@ Here you find information about:
 - [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
   - Introduction to syntax I (week 1)<br/><br/>
 
-### Course descriptions
+### Course descriptions<br/>
 
 #### Berry Claus: Searching for meaning: methods and findings in experimental (psycho)linguistics
 
