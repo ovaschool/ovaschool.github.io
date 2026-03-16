@@ -37,7 +37,7 @@ Here you find information about:
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
   - TBD
 - [Maria Onoeva](https://mariaonoeva.github.io/) (Prague / HU Berlin)
-  - Introduction to polar questions (week 1)
+  - Introduction to polar questions? (introductory/intermediate, week 1)
 - [Deniz Özyıldız](https://deniz.fr/) (Stuttgart) & [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht)
   - TBD (week 1)
 - [Vesela Simeonova](https://kfunigraz.academia.edu/VeselaSimeonova) (Graz)
@@ -102,5 +102,6 @@ The class is particularly suited for intermediate and advanced students who have
 OVA 2026 is partially funded by:
 - Generative Linguistics in the Old World (GLOW)
 - Department of Slavic and Hungarian Studies, HU Berlin
+- Faculty of Language, Literature and Humanities, HU Berlin
 
 
