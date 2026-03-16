@@ -33,17 +33,19 @@ Here you find information about:
 #### Semantics 
 
 - [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover)
-  - [Searching for meaning: methods and findings in experimental (psycho)linguistics](#berry-claus-searching-for-meaning-methods-and-findings-in-experimental-psycholinguistics) (introductory)
+  - [Searching for meaning: methods and findings in experimental (psycho)linguistics](#berry-claus-searching-for-meaning-methods-and-findings-in-experimental-psycholinguistics) (introductory/intermediate, week 2)
+- [Berit Gehrke](http://www.beritgehrke.com/) (HU Berlin)
+  - Introduction to semantics (week 2)
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
-  - TBD
+  - TBD (week 2)
 - [Maria Onoeva](https://mariaonoeva.github.io/) (Prague / HU Berlin)
   - Introduction to polar questions? (introductory/intermediate, week 1)
 - [Deniz Özyıldız](https://deniz.fr/) (Stuttgart) & [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht)
   - TBD (week 1)
 - [Vesela Simeonova](https://kfunigraz.academia.edu/VeselaSimeonova) (Graz)
-  - Evidentiality (intermediate/advanced)
+  - [The semantics and pragmatics of evidentiality](#vesela-simeonova-the-semantics-and-pragmatics-of-evidentiality) (intermediate/advanced, week 1)
 - [Yasutada Sudo](https://www.homepages.ucl.ac.uk/~ucjtudo/) (UCL)
-  - Introduction to semantics
+  - Introduction to semantics (week 1)
   - TBD
 
 #### Syntax-semantics interface
@@ -90,6 +92,21 @@ We will break down how to move from empirical observation to formal analysis, wo
 We will critically evaluate whether formal linguistics is facing an empirical crisis and dissect the arguments giving rise to this perspective. By examining case studies, we will discuss the prospects and limitations of the recent trend towards experimentalism. 
 
 The class is particularly suited for intermediate and advanced students who have already conducted some linguistic research of their own (e.g., seminar papers or BA/MA theses), though less experienced students will also benefit from it. While the main focus will be on syntactic research, students from other subfields will likewise be able to follow the course and profit from it.<br/><br/>
+
+#### Vesela Simeonova: The semantics and pragmatics of evidentiality
+
+Arguably, in any language one can convey not only information, but also how they acquired that information: through direct observation, hearsay, inference, etc. For example, in English, one can say: 
+
+(1)	 **Reportedly**, it’s raining. 
+
+About a quarter of the world’s languages organize sources of information into grammatical paradigms, i.e. closed systems with a limited number of members. We call these **grammatical evidential markers**. For example, Cuzco Quechua has a paradigm of three evidential markers (example from Faller 2002):
+
+(2)	Parashan-**si/mi/cha**.<br/>
+rain.PROG-REP/DIR/INF<br/>
+‘It’s raining + source of information: *report/direct observation/inference*.’<br/> 
+
+This course will survey the semantics and pragmatics of grammatical evidential markers from a cross-linguistic perspective. We will review the main theories of the core meaning of evidentiality in prototypical simple declarative sentences such as (2). In addition, we will go beyond those and explore the properties of evidentials in more complex environments, such as questions, imperatives, conditionals, embedded clauses, the relationship between evidentials and epistemic modals, and non-canonical uses of evidential markers in mirative and impolite utterances.<br/><br/>
+
 
 ### Venue
 
