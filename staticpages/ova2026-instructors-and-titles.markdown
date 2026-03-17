@@ -1,11 +1,11 @@
 ---
 layout: page
-title: OVA 2026: Teachers and course titles
+title: OVA 2026: Instructors and course titles
 permalink: FILLINc
 exclude: true
 ---
 
-### OVA teachers and course titles
+### OVA instructors and course titles
 
 #### Phonology
 
