@@ -8,11 +8,19 @@ permalink: /ova2026/
 OVA 2026 takes place at the **University of Debrecen**, Hungary from **July 27-August 7**, 2026. Get excited! 
 
 Here you find information about: 
-- [Registration](/ova2026-registration/) and grant applications (TBA) 
-- [Teachers](#ova-teachers-and-course-titles) (still a couple missing), [course titles](#ova-teachers-and-course-titles) (gradually coming in), [course descriptions](#course-descriptions) (gradually coming in)
-- Schedule (TBA)
-- [Venue](#venue) (dorms and classrooms)
-- [Sponsors](#sponsors)
+- Registration and grant applications (TBA) 
+- Teaching (near-complete)
+    - [teachers](#ova-teachers-and-course-titles) and [course titles](#ova-teachers-and-course-titles)  
+    - [detailed course descriptions](#course-descriptions) 
+    - the schedule (TBA)
+- [Venue](#venue), dorms and classrooms
+
+### Sponsors
+
+OVA 2026 is proudly funded by:
+- Generative Linguistics in the Old World (GLOW)
+- Department of Slavic and Hungarian Studies, HU Berlin
+- Faculty of Language, Literature and Humanities, HU Berlin
 
 ### OVA teachers and course titles
 
@@ -115,9 +123,3 @@ This course will survey the semantics and pragmatics of grammatical evidential m
 
 [Classrooms](https://maps.app.goo.gl/uugVS5ZaZbdZZYrP6)
 
-### Sponsors
-
-OVA 2026 is partially funded by:
-- Generative Linguistics in the Old World (GLOW)
-- Department of Slavic and Hungarian Studies, HU Berlin
-- Faculty of Language, Literature and Humanities, HU Berlin
