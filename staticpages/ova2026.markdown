@@ -11,7 +11,7 @@ Here you will find information about:
 - [Registration and grant applications](ova2026-registration.markdown) (upcoming)
 - Teaching (pre-final)
     - [teachers and course titles](#ova-teachers-and-course-titles)  
-    - [longer course descriptions](#course-descriptions) 
+    - [longer course descriptions](ova2026-course-descriptions.markdown) 
     - the final schedule
 - [Venue](#venue), dorms and classrooms
 
