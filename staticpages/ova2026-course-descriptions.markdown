@@ -29,7 +29,9 @@ We will break down how to move from empirical observation to formal analysis, wo
 **The empirical foundation of formal linguistic theory and its current state.**
 We will critically evaluate whether formal linguistics is facing an empirical crisis and dissect the arguments giving rise to this perspective. By examining case studies, we will discuss the prospects and limitations of the recent trend towards experimentalism. 
 
-The class is particularly suited for intermediate and advanced students who have already conducted some linguistic research of their own (e.g., seminar papers or BA/MA theses), though less experienced students will also benefit from it. While the main focus will be on syntactic research, students from other subfields will likewise be able to follow the course and profit from it.<br/><br/>
+The class is particularly suited for intermediate and advanced students who have already conducted some linguistic research of their own (e.g., seminar papers or BA/MA theses), though less experienced students will also benefit from it. While the main focus will be on syntactic research, students from other subfields will likewise be able to follow the course and profit from it.
+
+Level: intermediate<br/><br/>
 
 #### Vesela Simeonova: The semantics and pragmatics of evidentiality
 
@@ -43,5 +45,7 @@ About a quarter of the world’s languages organize sources of information into 
 rain.PROG-REP/DIR/INF<br/>
 ‘It’s raining + source of information: *report/direct observation/inference*.’<br/> 
 
-This course will survey the semantics and pragmatics of grammatical evidential markers from a cross-linguistic perspective. We will review the main theories of the core meaning of evidentiality in prototypical simple declarative sentences such as (2). In addition, we will go beyond those and explore the properties of evidentials in more complex environments, such as questions, imperatives, conditionals, embedded clauses, the relationship between evidentials and epistemic modals, and non-canonical uses of evidential markers in mirative and impolite utterances.<br/><br/>
+This course will survey the semantics and pragmatics of grammatical evidential markers from a cross-linguistic perspective. We will review the main theories of the core meaning of evidentiality in prototypical simple declarative sentences such as (2). In addition, we will go beyond those and explore the properties of evidentials in more complex environments, such as questions, imperatives, conditionals, embedded clauses, the relationship between evidentials and epistemic modals, and non-canonical uses of evidential markers in mirative and impolite utterances.
+
+Level: intermediate/advanced<br/><br/>
 
