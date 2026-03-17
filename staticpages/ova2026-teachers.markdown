@@ -25,7 +25,7 @@ exclude: true
 #### Semantics 
 
 - [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover)
-  - [Searching for meaning: methods and findings in experimental (psycho)linguistics](#berry-claus-searching-for-meaning-methods-and-findings-in-experimental-psycholinguistics) (introductory/intermediate)
+  - Searching for meaning: methods and findings in experimental (psycho)linguistics (introductory/intermediate)
 - [Berit Gehrke](http://www.beritgehrke.com/) (HU Berlin)
   - Introduction to semantics
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
@@ -35,7 +35,7 @@ exclude: true
 - [Deniz Özyıldız](https://deniz.fr/) (Stuttgart) & [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht)
   - Attitude reports: from modal logic to event semantics (intermediate, week 1)
 - [Vesela Simeonova](https://kfunigraz.academia.edu/VeselaSimeonova) (Graz)
-  - [The semantics and pragmatics of evidentiality](#vesela-simeonova-the-semantics-and-pragmatics-of-evidentiality) (intermediate/advanced, week 1)
+  - The semantics and pragmatics of evidentiality (intermediate/advanced, week 1)
 - [Yasutada Sudo](https://www.homepages.ucl.ac.uk/~ucjtudo/) (UCL)
   - Introduction to semantics
   - TBD
@@ -55,6 +55,6 @@ exclude: true
 - Matěj Kundrát (Tromsø) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Zlín)
   - TBD
 - [Magdalena Lohninger](https://lenalohninger.wordpress.com/) (Salzburg) & [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
-  - [Scientific problem solving for linguists (I got 99 problems but evidence ain't one)](#magdalena-lohninger--timea-szarvas-scientific-problem-solving-for-linguists-i-got-99-problems-but-evidence-aint-one) (mid-level, week 2)
+  - Scientific problem solving for linguists (I got 99 problems but evidence ain't one)\ (mid-level, week 2)
 - [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
   - Introduction to syntax I (week 1)
