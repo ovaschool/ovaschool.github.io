@@ -44,17 +44,17 @@ OVA 2026 is proudly funded by:
 - [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover)
   - [Searching for meaning: methods and findings in experimental (psycho)linguistics](#berry-claus-searching-for-meaning-methods-and-findings-in-experimental-psycholinguistics) (introductory/intermediate, week 2)
 - [Berit Gehrke](http://www.beritgehrke.com/) (HU Berlin)
-  - Introduction to semantics (week 2)
+  - Introduction to semantics
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
   - TBD (week 2)
 - [Maria Onoeva](https://mariaonoeva.github.io/) (Prague / HU Berlin)
   - Introduction to polar questions? (introductory/intermediate, week 1)
 - [Deniz Özyıldız](https://deniz.fr/) (Stuttgart) & [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht)
-  - TBD (week 1)
+  - Attitude reports: from modal logic to event semantics (intermediate, week 1)
 - [Vesela Simeonova](https://kfunigraz.academia.edu/VeselaSimeonova) (Graz)
   - [The semantics and pragmatics of evidentiality](#vesela-simeonova-the-semantics-and-pragmatics-of-evidentiality) (intermediate/advanced, week 1)
 - [Yasutada Sudo](https://www.homepages.ucl.ac.uk/~ucjtudo/) (UCL)
-  - Introduction to semantics (week 1)
+  - Introduction to semantics
   - TBD
 
 #### Syntax-semantics interface
