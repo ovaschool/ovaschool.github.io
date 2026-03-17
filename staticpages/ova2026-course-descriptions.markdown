@@ -1,9 +1,11 @@
 ---
 layout: page
 title: OVA 2026 course descriptions
-permalink: FILL INa
+permalink: ova2026-course-descriptions
 exclude: true
 ---
+
+test
 
 ### Course descriptions<br/>
 
