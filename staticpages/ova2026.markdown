@@ -13,7 +13,7 @@ Here you will find information about:
     - [teachers and course titles](ova2026-teachers.markdown)  
     - [longer course descriptions](ova2026-course-descriptions.markdown) 
     - the final schedule
-- [Venue](#venue), dorms and classrooms
+- [Venue, dorms and classrooms](ova2026-location.markdown)
 
 #### OVA 2026 is funded by:
 
