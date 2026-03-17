@@ -1,7 +1,7 @@
 ---
 layout: page
-title: OVA 2026: Instructors and course titles
-permalink: FILL IN
+title: OVA 2026: Teachers and course titles
+permalink: FILLINc
 exclude: true
 ---
 

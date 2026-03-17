@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OVA 2026 in Debrecen
-permalink: FILL IN2
+permalink: FILL INa
 exclude: true
 ---
 
