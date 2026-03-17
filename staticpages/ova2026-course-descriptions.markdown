@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OVA 2026 in Debrecen
+title: OVA 2026 course descriptions
 permalink: FILL INa
 exclude: true
 ---
