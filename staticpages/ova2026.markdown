@@ -42,7 +42,7 @@ OVA 2026 is funded by:
 #### Semantics 
 
 - [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover)
-  - [Searching for meaning: methods and findings in experimental (psycho)linguistics](#berry-claus-searching-for-meaning-methods-and-findings-in-experimental-psycholinguistics) (introductory/intermediate, week 2)
+  - [Searching for meaning: methods and findings in experimental (psycho)linguistics](#berry-claus-searching-for-meaning-methods-and-findings-in-experimental-psycholinguistics) (introductory/intermediate)
 - [Berit Gehrke](http://www.beritgehrke.com/) (HU Berlin)
   - Introduction to semantics
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
