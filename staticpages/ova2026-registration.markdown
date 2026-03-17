@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Registration: OVA 2026
-permalink: FILLINb
+title: Registration for OVA 2026
+permalink: ova2026-registration
 exclude: true
 ---
 
