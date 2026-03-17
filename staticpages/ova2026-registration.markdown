@@ -5,4 +5,4 @@ permalink: ova2026-registration
 exclude: true
 ---
 
-Here goes the info about registration.
+The link to register, as well as information about what the school costs and how to apply will become available before the end of March.
