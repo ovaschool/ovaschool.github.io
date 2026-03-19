@@ -14,6 +14,8 @@ exclude: true
 - [Natalia Kuznetsova](https://unicatt.academia.edu/NataliaKuznetsova) (Università Cattolica del Sacro Cuore)
   - Phonological typology (introductory/slightly intermediate, week 1)
   - Phonology of Finnic languages (intermediate/slightly advanced, week 2)
+- [Andrew Lamont](https://aphonologist.github.io/) (UCL)
+  - TBD
 - [Shakuntala Mahanta](https://www.iitg.ac.in/hss/faculty_page_profile.php?name=MzgvUVFIK2oydWpTaXFzNUJOUkExZz09) (IIT Guwahati)
   - Vowel harmony (introductory/intermediate, week 1)
 - [Clàudia Pons-Moll](https://stel.ub.edu/filologiacatalana/directori-organitzatiu/claudia-pons-moll) (Universitat de Barcelona) (week 1)
