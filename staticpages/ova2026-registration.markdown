@@ -33,7 +33,7 @@ The registration fee covers accommodation at the dorms (July 27 - August 7), and
 - attendance without accomodation: €100
 
 #### Student grants: 
-If you are in a difficult financial predicament and are not able to afford the registration fee, you can request a waiver of the registration fee (i.e. accommodation at the dorm and access to classes). Upon registration, send us an email at ovasummerschool@gmail.com specifying your situation and we will let you know if it is possible for the school to (partly or fully) cover you. Please note, that applicants from post-Soviet countries are prioritized.
+If you are in a difficult financial situation and are not able to afford the registration fee, you can request a waiver of the registration fee (i.e. accommodation at the dorm and access to classes). Upon registration, send us an email at ovasummerschool@gmail.com specifying your situation and we will let you know if it is possible for the school to (partly or fully) cover you. Please note, that applicants from post-Soviet countries are prioritized.
 
 
 
