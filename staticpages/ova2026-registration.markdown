@@ -5,7 +5,7 @@ permalink: ova2026-registration
 exclude: true
 ---
 ### General
-Registration opens in March and closes on June 15. People who register and don't show up create problems for our local organizers and us, so please, inform us at your earliest convenience if you have to cancel (via email: ovasummerschool@gmail.com), and no later than June 30.
+Registration opens in March and closes on **June 15**. Please register via the registration form below. This year, we offer early bird fees; see the pricing options below.
 
 ### Link to registration form:
 TBA in late March
