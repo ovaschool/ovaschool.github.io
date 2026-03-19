@@ -29,8 +29,8 @@ The registration fee covers accommodation at the dorms (July 27 - August 7), and
 - one week single room: €230 (if available)
 - one week shared room, reduced price for students from Eastern Europe: €160
 
-#### Without accomodation
-- attendance without accomodation: €100
+#### Without accommodation
+- attendance without accommodation: €100
 
 #### Student grants
 If you are in a difficult financial situation and are not able to afford the registration fee, you can request a waiver of the registration fee (i.e. accommodation at the dorm and access to classes). Upon registration, send us an email at ovasummerschool@gmail.com specifying your situation and we will let you know if it is possible for the school to (partly or fully) cover you. 
