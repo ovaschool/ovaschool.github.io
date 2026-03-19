@@ -13,7 +13,7 @@ TBA in late March
 ### Costs:
 The registration fee covers accommodation at the dorms (July 27 - August 7), and access to classes. It is to be paid in cash in the local currency (HUF) or in Euro at the day of arrival. Shared rooms host 4 people and there is only limited availability of single rooms. 
 
-#### Early bird (before May 1)
+#### Early bird prices (before May 1)
 - two weeks shared room: €230
 - two weeks single room: €330 (if available)
 - two weeks shared room, reduced price for students from Eastern Europe: €210
@@ -21,7 +21,7 @@ The registration fee covers accommodation at the dorms (July 27 - August 7), and
 - one week single room: €200 (if available)
 - one week shared room, reduced price for students from Eastern Europe: €130
 
-#### Regular (May 1 - June 15)
+#### Regular prices (May 1 - June 15)
 - two weeks shared room: €250
 - two weeks single room: €350 (if available)
 - two weeks shared room, reduced price for students from Eastern Europe: €230
