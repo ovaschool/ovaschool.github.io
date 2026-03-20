@@ -10,7 +10,7 @@ exclude: true
 #### Phonology
 
 - [Yuriy Kushnir](https://yuriykushnir.com/) (Leipzig)
-  - Lexical accent systems. An introductory course. Case study: Lithuanian (week 2)
+  - Lexical accent systems: case study Lithuanian (introductory/intermediate, week 2)
 - [Natalia Kuznetsova](https://unicatt.academia.edu/NataliaKuznetsova) (Università Cattolica del Sacro Cuore)
   - Phonological typology (introductory/slightly intermediate, week 1)
   - Phonology of Finnic languages (intermediate/slightly advanced, week 2)
