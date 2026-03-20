@@ -18,8 +18,8 @@ exclude: true
   - TBD
 - [Shakuntala Mahanta](https://www.iitg.ac.in/hss/faculty_page_profile.php?name=MzgvUVFIK2oydWpTaXFzNUJOUkExZz09) (IIT Guwahati)
   - Vowel harmony (introductory/intermediate, week 1)
-- [Clàudia Pons-Moll](https://stel.ub.edu/filologiacatalana/directori-organitzatiu/claudia-pons-moll) (Universitat de Barcelona) (week 1)
-  - TBD
+- [Clàudia Pons-Moll](https://stel.ub.edu/filologiacatalana/directori-organitzatiu/claudia-pons-moll) (Universitat de Barcelona)
+  - Constraint interaction and variation in phonology (intermediate, week 1)
 - [Guy Tabachnik](https://gtabach.github.io/) (Brno)
   - TBD (week 1)
   - TBD (week 2)
