@@ -29,7 +29,7 @@ exclude: true
 - [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover)
   - [Searching for meaning: methods and findings in experimental (psycho)linguistics](https://github.com/ovaschool/ovaschool.github.io/blob/main/staticpages/ova2026-course-descriptions.markdown#berry-claus-searching-for-meaning-methods-and-findings-in-experimental-psycholinguistics) (introductory/intermediate)
 - [Berit Gehrke](http://www.beritgehrke.com/) (HU Berlin)
-  - Introduction to semantics
+  - Introduction to semantics II (week 2)
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
   - TBD (week 2)
 - [Maria Onoeva](https://mariaonoeva.github.io/) (Prague / HU Berlin)
@@ -39,7 +39,7 @@ exclude: true
 - [Vesela Simeonova](https://kfunigraz.academia.edu/VeselaSimeonova) (Graz)
   - [The semantics and pragmatics of evidentiality](https://github.com/ovaschool/ovaschool.github.io/blob/main/staticpages/ova2026-course-descriptions.markdown#vesela-simeonova-the-semantics-and-pragmatics-of-evidentiality) (intermediate/advanced, week 1)
 - [Yasutada Sudo](https://www.homepages.ucl.ac.uk/~ucjtudo/) (UCL)
-  - Introduction to semantics
+  - Introduction to semantics I (week 1)
   - TBD
 
 #### Syntax-semantics interface
