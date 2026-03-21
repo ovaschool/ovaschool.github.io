@@ -21,6 +21,9 @@ exclude: true
   - Vowel harmony (introductory/intermediate, week 1)
 - [Clàudia Pons-Moll](https://stel.ub.edu/filologiacatalana/directori-organitzatiu/claudia-pons-moll) (Universitat de Barcelona)
   - Constraint interaction and variation in phonology (intermediate, week 1)
+
+#### Morphology
+
 - [Guy Tabachnick](https://gtabach.github.io/) (Brno)
   - TBD (week 1)
   - TBD (week 2)
