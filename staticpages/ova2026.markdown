@@ -11,7 +11,7 @@ Here you will find information about:
 - [Registration, costs and student grants](ova2026-registration.markdown)
 - Teaching (pre-final)
     - [teachers and course titles](ova2026-teachers.markdown)  
-    - [longer course descriptions](ova2026-course-descriptions.markdown) 
+    - [course descriptions](ova2026-course-descriptions.markdown) 
     - the final schedule
 - [Venue, dorms and classrooms](ova2026-location.markdown)
 
