@@ -45,7 +45,7 @@ exclude: true
 #### Syntax-semantics interface
 
 - [Éva Kardos](https://evakardos.com/) (Debrecen)
-  - The syntax and semantics of inner aspect (advanced)
+  - The syntax and semantics of inner aspect (advanced, week 2)
 
 #### Syntax
 
@@ -55,7 +55,7 @@ exclude: true
 - [Imke Driemel](https://www.york.ac.uk/language-linguistic-science/people/imkedriemel/) (York) 
   - Agree and agreement (advanced, week 2)
 - Matěj Kundrát (Tromsø) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Zlín)
-  - TBD
+  - Of mice and men: the scope of suppletion (advanced, week 1)
 - [Magdalena Lohninger](https://lenalohninger.wordpress.com/) (Salzburg) & [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
   - [Scientific problem solving for linguists (I got 99 problems but evidence ain't one)](https://github.com/ovaschool/ovaschool.github.io/blob/main/staticpages/ova2026-course-descriptions.markdown#magdalena-lohninger--timea-szarvas-scientific-problem-solving-for-linguists-i-got-99-problems-but-evidence-aint-one) (mid-level, week 2)
 - [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
