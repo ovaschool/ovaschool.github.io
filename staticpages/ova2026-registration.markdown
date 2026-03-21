@@ -7,7 +7,7 @@ exclude: true
 ### General
 Registration opens in March and closes on **June 15**. Please register via the registration form below. This year, we offer early bird fees; see the pricing options below.
 
-#### Link to registration form
+### Link to registration form
 TBA in late March
 
 ### Costs
