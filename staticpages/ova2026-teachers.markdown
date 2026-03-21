@@ -15,7 +15,8 @@ exclude: true
   - Phonological typology (introductory/slightly intermediate, week 1)
   - Phonology of Finnic languages (intermediate/slightly advanced, week 2)
 - [Andrew Lamont](https://aphonologist.github.io/) (UCL)
-  - TBD
+  - TBD (week 1)
+  - TBD (week 2)
 - [Shakuntala Mahanta](https://www.iitg.ac.in/hss/faculty_page_profile.php?name=MzgvUVFIK2oydWpTaXFzNUJOUkExZz09) (IIT Guwahati)
   - Vowel harmony (introductory/intermediate, week 1)
 - [Clàudia Pons-Moll](https://stel.ub.edu/filologiacatalana/directori-organitzatiu/claudia-pons-moll) (Universitat de Barcelona)
@@ -27,7 +28,7 @@ exclude: true
 #### Semantics 
 
 - [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover)
-  - [Searching for meaning: methods and findings in experimental (psycho)linguistics](https://github.com/ovaschool/ovaschool.github.io/blob/main/staticpages/ova2026-course-descriptions.markdown#berry-claus-searching-for-meaning-methods-and-findings-in-experimental-psycholinguistics) (introductory/intermediate)
+  - [Searching for meaning: Methods and findings in experimental (psycho)linguistics](https://github.com/ovaschool/ovaschool.github.io/blob/main/staticpages/ova2026-course-descriptions.markdown#berry-claus-searching-for-meaning-methods-and-findings-in-experimental-psycholinguistics) (introductory/intermediate)
 - [Berit Gehrke](http://www.beritgehrke.com/) (HU Berlin)
   - Introduction to semantics II (week 2)
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
@@ -55,7 +56,7 @@ exclude: true
 - [Imke Driemel](https://www.york.ac.uk/language-linguistic-science/people/imkedriemel/) (York) 
   - Agree and agreement (advanced, week 2)
 - Matěj Kundrát (Tromsø) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Zlín)
-  - Of mice and men: the scope of suppletion (advanced, week 1)
+  - [Of mice and men: The scope of suppletion](https://github.com/ovaschool/ovaschool.github.io/blob/main/staticpages/ova2026-course-descriptions.markdown#mat%C4%9Bj-kundr%C3%A1t--jeffrey-parrott-of-mice-and-men-the-scope-of-suppletion) (advanced, week 1)
 - [Magdalena Lohninger](https://lenalohninger.wordpress.com/) (Salzburg) & [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
   - [Scientific problem solving for linguists (I got 99 problems but evidence ain't one)](https://github.com/ovaschool/ovaschool.github.io/blob/main/staticpages/ova2026-course-descriptions.markdown#magdalena-lohninger--timea-szarvas-scientific-problem-solving-for-linguists-i-got-99-problems-but-evidence-aint-one) (mid-level, week 2)
 - [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
