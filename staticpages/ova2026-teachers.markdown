@@ -49,7 +49,7 @@ exclude: true
 #### Syntax-semantics interface
 
 - [Éva Kardos](https://evakardos.com/) (Debrecen)
-  - [The syntax and semantics of inner aspect](https://github.com/ovaschool/ovaschool.github.io/blob/main/staticpages/ova2026-course-descriptions.markdown#%C3%A9va-kardos-the-syntax-and-semantics-of-inner-aspect) (advanced, week 2)
+  - [The syntax and semantics of inner aspect](https://ovaschool.github.io/ova2026-course-descriptions) (advanced, week 2)
 
 #### Syntax
 
