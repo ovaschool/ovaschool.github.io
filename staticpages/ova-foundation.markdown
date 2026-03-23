@@ -19,4 +19,6 @@ Every board member has an equal voice in each decision made. The board members a
 
 ### Membership
 Everyone who attended or taught at an OVA summer school is eligible to become a member of the OVA foundation for the subsequent year. Instructions of how to become a member are sent via email to the participants after each school. 
-Every member is allowed to participate in the general assembly and vote on decisions like new board members or the next location of OVA. If you wish to become an OVA member (without having participated at an OVA summer school), please reach out to us at ovasummerschool@gmail.com.
+Every member is allowed to participate in the general assembly and vote on decisions like new board members or the next location of OVA. 
+
+If you have questions about the OVA foundation or if you wish to become an OVA member without having participated at an OVA summer school, please reach out to us at ovasummerschool@gmail.com.
