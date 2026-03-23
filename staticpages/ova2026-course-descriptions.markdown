@@ -5,7 +5,7 @@ permalink: ova2026-course-descriptions
 exclude: true
 ---
 
-### Course descriptions<br/>
+### Course descriptions (in alphabetical order of teachers' last names)<br/>
 
 #### Berry Claus: Searching for meaning: Methods and findings in experimental (psycho)linguistics
 
