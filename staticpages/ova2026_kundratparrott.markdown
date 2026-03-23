@@ -1,11 +1,9 @@
 ---
 layout: page
-title: OVA 2026 course descriptions
+title: Matěj Kundrát & Jeffrey Parrott - Of mice and men
 permalink: ova2026-kundratparrott
 exclude: true
 ---
-
-### Matěj Kundrát & Jeffrey Parrott: Of mice and men: The scope of suppletion
 
 (joint work with Shanti Ulfsbjorninn)
 
