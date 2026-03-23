@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vesela Simeonova: The semantics and pragmatics of evidentiality
+title: Vesela Simeonova - The semantics and pragmatics of evidentiality
 permalink: ova2026-simeonova
 exclude: true
 ---
