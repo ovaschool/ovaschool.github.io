@@ -1,11 +1,11 @@
 ---
 layout: page
-title: OVA 2026 course descriptions
+title: Magdalena Lohninger & Timea Szarvas - Scientific problem solving for linguists
 permalink: ova2026-lohningerszarvas
 exclude: true
 ---
 
-#### Magdalena Lohninger & Timea Szarvas: Scientific problem solving for linguists (I got 99 problems but evidence ain't one)
+#### (I got 99 problems but evidence ain't one)
 
 In this class, two syntacticians with distinct approaches to data collection join forces to teach you how to get from a linguistic problem to theory formation. Along the way, we discuss the following topics:
 
