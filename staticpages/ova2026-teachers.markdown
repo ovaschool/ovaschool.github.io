@@ -10,7 +10,7 @@ exclude: true
 #### Phonology
 
 - [Yuriy Kushnir](https://yuriykushnir.com/) (Leipzig)
-  - Lexical accent systems: Case study Lithuanian (introductory/intermediate, week 2)
+  - [Lexical accent systems: Case study Lithuanian](https://ovaschool.github.io/ova2026-kushnir) (introductory/intermediate, week 2)
 - [Natalia Kuznetsova](https://unicatt.academia.edu/NataliaKuznetsova) (Università Cattolica del Sacro Cuore)
   - Phonological typology (introductory/slightly intermediate, week 1)
   - Phonology of Finnic languages (intermediate/slightly advanced, week 2)
@@ -31,7 +31,7 @@ exclude: true
 #### Semantics 
 
 - [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (Hanover)
-  - Searching for meaning: Methods and findings in experimental (psycho)linguistics (introductory/intermediate, week 2)
+  - [Searching for meaning: Methods and findings in experimental (psycho)linguistics](https://ovaschool.github.io/ova2026-claus) (introductory/intermediate, week 2)
 - [Berit Gehrke](http://www.beritgehrke.com/) (HU Berlin)
   - Introduction to semantics II (week 2)
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (Salzburg)
@@ -41,7 +41,7 @@ exclude: true
 - [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht)
   - Attitude reports: from modal logic to event semantics (intermediate, week 1)
 - [Vesela Simeonova](https://kfunigraz.academia.edu/VeselaSimeonova) (Graz)
-  - The semantics and pragmatics of evidentiality (intermediate/advanced, week 1)
+  - [The semantics and pragmatics of evidentiality](https://ovaschool.github.io/ova2026-simeonova) (intermediate/advanced, week 1)
 - [Yasutada Sudo](https://www.homepages.ucl.ac.uk/~ucjtudo/) (UCL)
   - Introduction to semantics I (week 1)
   - Focus (intermediate, week 2)
@@ -49,7 +49,7 @@ exclude: true
 #### Syntax-semantics interface
 
 - [Éva Kardos](https://evakardos.com/) (Debrecen)
-  - The syntax and semantics of inner aspect (advanced, week 2)
+  - [The syntax and semantics of inner aspect](https://ovaschool.github.io/ova2026-kardos) (advanced, week 2)
 
 #### Syntax
 
@@ -59,8 +59,8 @@ exclude: true
 - [Imke Driemel](https://www.york.ac.uk/language-linguistic-science/people/imkedriemel/) (York) 
   - Agree and agreement (advanced, week 2)
 - Matěj Kundrát (Tromsø) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Zlín)
-  - Of mice and men: The scope of suppletion (advanced, week 1)
+  - [Of mice and men: The scope of suppletion](https://ovaschool.github.io/ova2026-kundratparrott) (advanced, week 1)
 - [Magdalena Lohninger](https://lenalohninger.wordpress.com/) (Salzburg) & [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
-  - Scientific problem solving for linguists (I got 99 problems but evidence ain't one) (mid-level, week 2)
+  - [Scientific problem solving for linguists (I got 99 problems but evidence ain't one)](https://ovaschool.github.io/ova2026-lohningerszarvas) (mid-level, week 2)
 - [Timea Szarvas](https://timeaszarvas.github.io/) (Potsdam)
   - Introduction to syntax I (week 1)
