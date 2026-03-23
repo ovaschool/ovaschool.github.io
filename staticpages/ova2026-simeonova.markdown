@@ -1,11 +1,9 @@
 ---
 layout: page
-title: OVA 2026 course descriptions
+title: Vesela Simeonova: The semantics and pragmatics of evidentiality
 permalink: ova2026-simeonova
 exclude: true
 ---
-
-### Vesela Simeonova: The semantics and pragmatics of evidentiality
 
 Arguably, in any language one can convey not only information, but also how they acquired that information: through direct observation, hearsay, inference, etc. For example, in English, one can say: 
 
