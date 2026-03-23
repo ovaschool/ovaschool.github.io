@@ -44,7 +44,7 @@ exclude: true
   - The semantics and pragmatics of evidentiality (intermediate/advanced, week 1)
 - [Yasutada Sudo](https://www.homepages.ucl.ac.uk/~ucjtudo/) (UCL)
   - Introduction to semantics I (week 1)
-  - Focus (intermediate, week 2))
+  - Focus (intermediate, week 2)
 
 #### Syntax-semantics interface
 
