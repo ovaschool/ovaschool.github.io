@@ -38,7 +38,7 @@ exclude: true
   - TBD (week 2)
 - [Maria Onoeva](https://mariaonoeva.github.io/) (Prague / HU Berlin)
   - Introduction to polar questions? (introductory/intermediate, week 1)
-- [Deniz Özyıldız](https://deniz.fr/) (Stuttgart) & [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht)
+- [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht)
   - Attitude reports: from modal logic to event semantics (intermediate, week 1)
 - [Vesela Simeonova](https://kfunigraz.academia.edu/VeselaSimeonova) (Graz)
   - [The semantics and pragmatics of evidentiality](https://github.com/ovaschool/ovaschool.github.io/blob/main/staticpages/ova2026-course-descriptions.markdown#vesela-simeonova-the-semantics-and-pragmatics-of-evidentiality) (intermediate/advanced, week 1)
