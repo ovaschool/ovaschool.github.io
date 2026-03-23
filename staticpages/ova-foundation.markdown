@@ -14,7 +14,7 @@ The OVA board consists of:
 -	1 phonology member
 -	1 semantics member
 -	1 syntax member
--	
+  
 Every board member has an equal voice in each decision made. The board members are (re-)voted every five years. You can find the current board setup here (link).
 
 ### Membership
