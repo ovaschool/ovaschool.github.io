@@ -4,6 +4,7 @@ title: Matěj Kundrát & Jeffrey Parrott - Of mice and men
 permalink: ova2026-kundratparrott
 exclude: true
 ---
+#### The scope of suppletion
 
 (joint work with Shanti Ulfsbjorninn)
 
