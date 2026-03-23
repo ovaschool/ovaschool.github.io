@@ -1,11 +1,9 @@
 ---
 layout: page
-title: OVA 2026 course descriptions
+title: Éva Kardos - The syntax and semantics of inner aspect
 permalink: ova2026-kardos
 exclude: true
 ---
-
-### Éva Kardos: The Syntax and Semantics of Inner Aspect
 
 An important question in inner aspect research is how it is best to represent the delimited nature of event descriptions. While delimitedness or telicity is considered in many analyses to be a purely semantic phenomenon, we have also seen in recent decades several proposals about how telicity is syntactically instantiated. In this course we will survey some of these analyses from the past 70 years or so by comparing and contrasting their central claims and predictions. For example, after a brief introduction to Vendler’s (1957) aspectual classification of verbal predicates, we will discuss semantic proposals such as Verkuyl (1972, 1993) and Krifka (1989, 1992, 1998), who are both fundamentally interested in how the direct object interacts with the verb to determine aspectual interpretations. Krifka uses the semantic properties of quantization and cumulativity to capture the relationship between the referential properties of the direct object and the (a)telicity of verbal predicates. This analysis is challenged in much later work including Kratzer’s (2004) syntactic analysis motivated by the connection between the availability of (a)telic interpretations and case assignment with respect to the direct object.
 
