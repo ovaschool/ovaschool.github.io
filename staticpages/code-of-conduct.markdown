@@ -11,7 +11,7 @@ The Omnes Voces Acceptamus (OVA) summer school aims for a welcoming, pleasant, a
 To foster an atmosphere of tolerance and respect, participants are expected to interact with others in a respectful and courteous manner, regardless of gender, race, ethnicity, age, national origin, ancestry, sexual orientation, gender identity, gender expression, physical appearance, religious affiliation, creed, marital status, socioeconomic status, differing abilities, medical conditions, personal characteristics, political orientation, technology choices, food choices, or any other differentiating factors. 
 All persons, organizations, and entities involved with OVA are subject to the standards of conduct set forth below. Participants at OVA events are expected to abide by this code of conduct and encourage tolerance and respect. Everyone should feel empowered to engage in a civil manner when they or others are disrespected, and to raise awareness and understanding of this code of conduct. 
 
-#### Civility Policy 
+#### Civility policy 
 
 No kind of harassment will be tolerated (including abusive, racist, sexist, homophobic, intimidating, harassing, or threatening behavior, be it towards another participant, organizer, or local denizen). Harassment includes, but is not limited to: 
 
@@ -25,11 +25,11 @@ No kind of harassment will be tolerated (including abusive, racist, sexist, homo
 - sustained disruption during presentations and other events; 
 - encouraging or advocating any of the above behaviors. 
 
-#### Good Faith 
+#### Good faith 
 
 Since OVA aims to include scholars and students from all over the world and of different cultural backgrounds, participants may have varied sensitivities and actions may sometimes be inadvertently perceived as offensive due to the lack of awareness rather than due to malice or ill intent: a common word in one language may have acquired negative connotations in another, an abbreviation may have both innocent and obscene meanings, a gesture of politeness in one culture may have become associated with inequality in another. When such cultural differences may be involved, it is important to hear both sides, in line with a reasonable assumption of good faith.
 
-#### Academic Freedom of Speech 
+#### Academic freedom of speech 
 
 Disagreements, scientific or otherwise, should be dealt with in a rational, respectful, and civilized discussion; we affirm the understanding that academic consensus may sometimes be elusive, especially on matters of taste, belief, or social policy, and that the expression or the critique of a contested academic viewpoint does not in itself constitute harassment, as long as it is done in a respectful way; correspondingly, we affirm that it is sometimes necessary to simply respect each other’s position (without necessarily agreeing), or to seek open, public discourse on contested issues. We also affirm that presenters may discuss material that is sensitive as long as this is done in a respectful way where the material is adequately contextualized in line with academic inquiry. 
 By contrast, aggressive discussion styles (including ad hominem comments) that are aimed to  intimidate, marginalize, belittle, or disparage others (or their research area) are unacceptable. 
