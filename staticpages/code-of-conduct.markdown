@@ -2,7 +2,6 @@
 layout: page
 title: Code of conduct
 permalink: code-of-conduct
-exclude: true
 ---
 
 *This code of conduct is adapted from the [Association for Logic, Language and Information (FoLLI)](https://2026.esslli.eu/about-esslli/code-of-conduct.html) and the [Linguistic Society of America (LSA)](https://www.lsadc.org/lsa_code_of_conduct_for_events).*
