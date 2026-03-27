@@ -2,7 +2,7 @@
 layout: page
 title: Organizers
 permalink: /organizers/
-exclude: true
+weight: 3
 ---
 
 OVA is brought to you by:
