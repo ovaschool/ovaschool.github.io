@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OVA 2026: Registration open"
-date:   2026-03-11 
+date:   2026-03-29 
 permalink: /registration-open/
 # categories: jekyll update
 ---
