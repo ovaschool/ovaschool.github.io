@@ -7,7 +7,7 @@ exclude: true
 ### General
 Registration is open and closes on **June 15**. Please register via the link to the registration form below. This year, we offer early bird fees; see the pricing options below.
 
-### [Link to registration form](https://forms.gle/y3o2MPXbwcPYCdxQ9) 
+### [Link to the registration form](https://forms.gle/y3o2MPXbwcPYCdxQ9) 
 
 ### Costs
 The registration fee covers accommodation at the dorms (July 27 - August 7), and access to classes. It is to be paid in cash in the local currency (HUF) or in Euro on the day of arrival. Shared rooms host 4 people. There is limited availability of single rooms and they will be assigned on a first come, first serve basis.
