@@ -13,7 +13,7 @@ Here you will find information about:
 - Teaching
     - [teachers and course titles](ova2026-teachers.markdown)  
     - [course descriptions](ova2026-course-descriptions.markdown) 
-    - the final schedule
+    - course schedule (TBA)
 - [Venue, dorms and classrooms](ova2026-location.markdown)
 
 #### We are funded by:
