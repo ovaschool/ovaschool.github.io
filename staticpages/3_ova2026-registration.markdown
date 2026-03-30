@@ -2,7 +2,6 @@
 layout: page
 title: Registration
 permalink: ova2026-registration
-exclude: true
 ---
 ### General
 Registration is open and closes on **June 15**. Please register via the link to the registration form below. This year, we offer early bird fees; see the pricing options below.
