@@ -9,7 +9,7 @@ weight: 2
 OVA 2026 takes place at the **University of Debrecen**, Hungary from **July 27-August 7**, 2026. Get excited! 
 
 Here you will find information about: 
-- [Registration, costs and student grants](ova2026-registration.markdown)
+- [Registration, costs and student grants](https://ovaschool.github.io/ova2026-registration)
 - Teaching
     - [teachers and course titles](ova2026-teachers.markdown)  
     - [course descriptions](ova2026-course-descriptions.markdown) 
