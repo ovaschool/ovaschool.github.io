@@ -17,7 +17,7 @@ The registration fee is around €250-€350 and covers classes as well as accom
 
 ### What you learn at OVA
 
-OVA provides a broad range of courses in syntax, semantics, and phonology, from introductory to advanced, research-oriented classes. This structure ensures that participants with varying levels of experience can all find courses suited to their background. Teachers regularly sit in each other’s classes, contributing to a collegial environment centered on shared learning.
+OVA provides a broad range of courses in syntax, semantics, and phonology, from introductory to advanced, research-oriented classes. This structure ensures that participants with varying levels of experience can all find courses suited to their background. We also encourage teachers to sit in each other’s classes, to foster a collegial environment centered on shared learning.
 
 Courses at the introductory level require little to no previous technical training and are designed to give students a concise yet solid foundation in the core concepts of each subfield. Advanced courses, on the other hand, are closely tied to the instructors’ own research interests and expose participants to current debates and developments across syntax, semantics, and phonology, representing diverse theoretical approaches and methodologies.
 
@@ -25,18 +25,18 @@ Beyond the core curriculum, students are encouraged to take an active role in th
 
 ### OVA teachers
 
-At OVA, we value fresh ideas and new voices in linguistic research, especially from early-career scholars. This is why in addition to established scholars we are happy to bring in junior researchers when we think their perspectives will add something special to the program. 
+At OVA, we value fresh ideas and new voices in linguistic research, especially from early-career scholars. This is why in addition to established scholars we are happy to bring in junior researchers.
 
 We try to keep the distance between students and teachers as small as possible. By encouraging open conversations and easy interaction, we aim to create a welcoming atmosphere that supports curiosity, creative research, and the sharing of ideas across all career stages.
 
-We also uphold a gender balance in selecting our instructors — not only to support the careers of young researchers equally, but also to provide students with a range of diverse and inspiring role models.
+We uphold a gender balance in selecting our instructors — not only to support the careers of young researchers equally, but also to provide students with a range of diverse and inspiring role models.
 
 
 ### The OVA spirit
 
-We aim to keep the barrier between students and teachers as low as possible — everyone is welcome, stays in the same dorms, and students, teachers, and organizers often spend time together outside the regular school hours. This informal atmosphere is meant to allow all participants, students and teachers, to spend time working on linguistics in a friendly and open setting.
+We aim to keep the barrier between students and teachers as low as possible — everyone is welcome, stays in the same dorms, and is invited to activities outside the school hours. This informal atmosphere is meant to allow all participants, students and teachers, to spend time working on linguistics in a friendly and open setting.
 
-There will be plenty of socializing outside the classroom at OVA. To ensure that everyone feels welcome and safe, OVA has a Code of Conduct that applies to all participants. The school is defined by a transparent and fair organizational body, that is capable of standing for basic principles of safety, inclusivity and gender representation.
+To ensure that everyone feels welcome and safe, OVA has a Code of Conduct that applies to all participants. 
 
 
 
