@@ -36,7 +36,7 @@ We uphold a gender balance in selecting our instructors — not only to support 
 
 We aim to keep the barrier between students and teachers as low as possible — everyone is welcome, stays in the same dorms, and is invited to activities outside the school hours. This informal atmosphere is meant to allow all participants, students and teachers, to spend time working on linguistics in a friendly and open setting.
 
-To ensure that everyone feels welcome and safe, OVA has a Code of Conduct that applies to all participants. 
+To ensure that everyone feels welcome and safe, OVA has a [Code of Conduct](https://ovaschool.github.io/code-of-conduct) that applies to all participants. 
 
 
 
