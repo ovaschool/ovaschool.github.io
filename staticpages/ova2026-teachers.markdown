@@ -26,7 +26,7 @@ exclude: true
 
 - [Guy Tabachnick](https://gtabach.github.io/) (Masaryk University Brno)
   - TBD (week 1)
-  - TBD (week 2)
+  - Morphological productivity (week 2)
 
 #### Semantics 
 
