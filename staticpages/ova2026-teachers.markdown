@@ -25,8 +25,8 @@ exclude: true
 #### Morphology
 
 - [Guy Tabachnick](https://gtabach.github.io/) (Masaryk University Brno)
-  - The role of paradigms in morphology (week 1)
-  - Morphological productivity (week 2)
+  - The role of paradigms in morphology (intermediate, week 1)
+  - Morphological productivity (introductory, week 2)
 
 #### Semantics 
 
