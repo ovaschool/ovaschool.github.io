@@ -9,4 +9,5 @@ OVA is brought to you by:
 
 * Petra Charvat
 * Berit Gehrke
+* Matěj Kundrát
 * Magdalena Lohninger
