@@ -20,7 +20,7 @@ exclude: true
 - [Shakuntala Mahanta](https://www.iitg.ac.in/hss/faculty_page_profile.php?name=MzgvUVFIK2oydWpTaXFzNUJOUkExZz09) (IIT Guwahati)
   - Vowel harmony (introductory/intermediate, week 1)
 - [Clàudia Pons-Moll](https://stel.ub.edu/filologiacatalana/directori-organitzatiu/claudia-pons-moll) (Universitat de Barcelona)
-  - Constraint interaction and variation in phonology (intermediate, week 1)
+  - [Constraint interaction and variation in phonology](https://ovaschool.github.io/ova2026-ponsmoll) (intermediate, week 1)
 
 #### Morphology
 
