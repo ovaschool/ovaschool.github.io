@@ -7,7 +7,7 @@ weight: 3
 
 OVA is brought to you by:
 
-* Petra Charvat
+* Petra Charvátová
 * Berit Gehrke
 * Matěj Kundrát
 * Magdalena Lohninger
