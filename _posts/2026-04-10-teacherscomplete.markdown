@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Teachers line-up complete"
+title:  "OVA 2026: Teachers line-up complete"
 date:   2026-04-10
 permalink: /teachers-complete/
 # categories: jekyll update
