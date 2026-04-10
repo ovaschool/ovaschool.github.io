@@ -7,6 +7,12 @@ exclude: true
 
 ### OVA teachers and course titles
 
+#### Morphology
+
+- [Guy Tabachnick](https://gtabach.github.io/) (Masaryk University Brno)
+  - The role of paradigms in morphology (intermediate, week 1)
+  - Morphological productivity (introductory, week 2)
+
 #### Phonology
 
 - [Yuriy Kushnir](https://yuriykushnir.com/) (Leipzig University)
@@ -21,12 +27,6 @@ exclude: true
   - Vowel harmony (introductory/intermediate, week 1)
 - [Clàudia Pons-Moll](https://stel.ub.edu/filologiacatalana/directori-organitzatiu/claudia-pons-moll) (Universitat de Barcelona)
   - [Constraint interaction and variation in phonology](https://ovaschool.github.io/ova2026-ponsmoll) (intermediate, week 1)
-
-#### Morphology
-
-- [Guy Tabachnick](https://gtabach.github.io/) (Masaryk University Brno)
-  - The role of paradigms in morphology (intermediate, week 1)
-  - Morphological productivity (introductory, week 2)
 
 #### Semantics 
 
@@ -45,6 +45,11 @@ exclude: true
 - [Yasutada Sudo](https://www.homepages.ucl.ac.uk/~ucjtudo/) (UCL)
   - Introduction to semantics I (week 1)
   - Focus (intermediate, week 2)
+
+#### Statistics 
+
+- [Varvara Magomedova](https://www.researchgate.net/profile/Varvara-Magomedova-2) (University of Nova Gorica)
+  - From zero to hero (week 1)
 
 #### Syntax-semantics interface
 
