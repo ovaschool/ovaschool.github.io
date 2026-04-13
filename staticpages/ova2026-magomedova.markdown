@@ -5,7 +5,7 @@ permalink: ova2026-magomedova
 exclude: true
 ---
 
-### Behavioral Experiments in Linguistics "Zero to Hero": PCIbex + R
+### "Zero to Hero": PCIbex + R
 
 We will design experiments, set them up on PCIbex and analyze data. 
 
