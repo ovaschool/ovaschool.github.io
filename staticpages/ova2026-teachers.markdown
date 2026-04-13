@@ -49,7 +49,7 @@ exclude: true
 #### Statistics 
 
 - [Varvara Magomedova](https://www.researchgate.net/profile/Varvara-Magomedova-2) (University of Nova Gorica)
-  - From zero to hero (week 1)
+  - [Behavioral Experiments in Linguistics "Zero to Hero": PCIbex + R](https://ovaschool.github.io/ova2026-magomedova) (week 1)
 
 #### Syntax-semantics interface
 
@@ -60,7 +60,7 @@ exclude: true
 
 - [Kenyon Branan](https://sites.google.com/view/kbranan/home) (University of Göttingen)
   - Introduction to syntax II (week 2)
-  - Introduction to post-syntactic constituency (intermediate, week 1)
+  - [Introduction to post-syntactic constituency](https://ovaschool.github.io/ova2026-branan) (intermediate, week 1)
 - [Imke Driemel](https://www.york.ac.uk/language-linguistic-science/people/imkedriemel/) (University of York) 
   - Agree and agreement (advanced, week 2)
 - Matěj Kundrát (UiT) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Tomas Bata University in Zlín)
