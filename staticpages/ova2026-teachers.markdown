@@ -60,7 +60,7 @@ exclude: true
 
 - [Kenyon Branan](https://sites.google.com/view/kbranan/home) (University of Göttingen)
   - Introduction to syntax II (week 2)
-  - TBD 
+  - Introduction to post-syntactic constituency (intermediate, week 1)
 - [Imke Driemel](https://www.york.ac.uk/language-linguistic-science/people/imkedriemel/) (University of York) 
   - Agree and agreement (advanced, week 2)
 - Matěj Kundrát (UiT) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Tomas Bata University in Zlín)
