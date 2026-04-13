@@ -17,4 +17,4 @@ rain.PROG-REP/DIR/INF<br/>
 
 This course will survey the semantics and pragmatics of grammatical evidential markers from a cross-linguistic perspective. We will review the main theories of the core meaning of evidentiality in prototypical simple declarative sentences such as (2). In addition, we will go beyond those and explore the properties of evidentials in more complex environments, such as questions, imperatives, conditionals, embedded clauses, the relationship between evidentials and epistemic modals, and non-canonical uses of evidential markers in mirative and impolite utterances.
 
-Level: intermediate/advanced
+Level: advanced
