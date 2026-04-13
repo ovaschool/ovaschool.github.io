@@ -59,8 +59,8 @@ exclude: true
 #### Syntax
 
 - [Kenyon Branan](https://sites.google.com/view/kbranan/home) (University of Göttingen)
-  - Introduction to syntax II (week 2)
   - [Introduction to post-syntactic constituency](https://ovaschool.github.io/ova2026-branan) (intermediate, week 1)
+  - Introduction to syntax II (week 2)
 - [Imke Driemel](https://www.york.ac.uk/language-linguistic-science/people/imkedriemel/) (University of York) 
   - Agree and agreement (advanced, week 2)
 - Matěj Kundrát (UiT) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Tomas Bata University in Zlín)
