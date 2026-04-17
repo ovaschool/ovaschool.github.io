@@ -33,7 +33,7 @@ exclude: true
 - [Berry Claus](https://www.germanistik.uni-hannover.de/claus) (University of Hanover)
   - [Searching for meaning: Methods and findings in experimental (psycho)linguistics](https://ovaschool.github.io/ova2026-claus) (introductory/intermediate, week 2)
 - [Berit Gehrke](http://www.beritgehrke.com/) (HU Berlin)
-  - Introduction to semantics II (week 2)
+  - [Introduction to semantics II](https://ovaschool.github.io/ova2026-introsemantics) (week 2)
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (University of Salzburg)
   - Introduction to comparative constructions (intermediate, week 2)
 - [Maria Onoeva](https://mariaonoeva.github.io/) (Charles University Prague & HU Berlin)
@@ -43,7 +43,7 @@ exclude: true
 - [Vesela Simeonova](https://kfunigraz.academia.edu/VeselaSimeonova) (University of Graz)
   - [The semantics and pragmatics of evidentiality](https://ovaschool.github.io/ova2026-simeonova) (advanced, week 1)
 - [Yasutada Sudo](https://www.homepages.ucl.ac.uk/~ucjtudo/) (UCL)
-  - Introduction to semantics I (week 1)
+  - [Introduction to semantics I](https://ovaschool.github.io/ova2026-introsemantics) (week 1)
   - Focus (intermediate, week 2)
 
 #### Statistics 
