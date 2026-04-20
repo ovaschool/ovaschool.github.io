@@ -9,7 +9,7 @@ Registration is open and closes on **June 15**. Please register via the link to 
 ### [Link to the registration form](https://forms.gle/y3o2MPXbwcPYCdxQ9) 
 
 ### Costs
-The registration fee covers accommodation at the dorms (July 27 - August 7), and access to classes. It is to be paid in cash in the local currency (HUF) or in Euro on the day of arrival. Shared rooms host 4 people. There is limited availability of single rooms and they will be assigned on a first come, first serve basis.
+The registration fee covers accommodation at the dorms (Sunday to Saturday), and access to classes. It is to be paid in cash in the local currency (HUF) or in Euro on the day of arrival. Shared rooms host 4 people. There is limited availability of single rooms and they will be assigned on a first come, first serve basis.
 
 #### Early bird prices (before May 1)
 - two weeks shared room: €230
