@@ -62,7 +62,7 @@ exclude: true
   - [Introduction to post-syntactic constituency](https://ovaschool.github.io/ova2026-branan) (intermediate, week 1)
   - Introduction to syntax II (week 2)
 - [Imke Driemel](https://www.york.ac.uk/language-linguistic-science/people/imkedriemel/) (University of York) 
-  - Agree and agreement (advanced, week 2)
+  - [Agree and agreement](https://ovaschool.github.io/ova2026-driemel) (advanced, week 2)
 - Matěj Kundrát (UiT) & [Jeffrey Parrott](https://utb-cz.academia.edu/JeffreyParrott) (Tomas Bata University in Zlín)
   - [Of mice and men: The scope of suppletion](https://ovaschool.github.io/ova2026-kundratparrott) (advanced, week 1)
 - [Magdalena Lohninger](https://lenalohninger.wordpress.com/) (University of Salzburg) & [Timea Szarvas](https://timeaszarvas.github.io/) (University of Potsdam)
