@@ -24,7 +24,7 @@ exclude: true
   - Opacity in rule-based phonology (introductory/intermediate, week 1)
   - Opacity in constraint-based phonology (intermediate/advanced, week 2)
 - [Shakuntala Mahanta](https://www.iitg.ac.in/hss/faculty_page_profile.php?name=MzgvUVFIK2oydWpTaXFzNUJOUkExZz09) (IIT Guwahati)
-  - Vowel harmony (introductory/intermediate, week 1)
+  - [Vowel harmony at the intersection of phonetics, phonology & computation](https://ovaschool.github.io/ova2026-mahanta) (introductory/intermediate, week 1)
 - [Clàudia Pons-Moll](https://stel.ub.edu/filologiacatalana/directori-organitzatiu/claudia-pons-moll) (Universitat de Barcelona)
   - [Constraint interaction and variation in phonology](https://ovaschool.github.io/ova2026-ponsmoll) (intermediate, week 1)
 
