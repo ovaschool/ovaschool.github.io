@@ -49,7 +49,7 @@ The **schedule** can be found [here](https://docs.google.com/spreadsheets/d/1cHC
 #### Statistics 
 
 - [Varvara Magomedova](https://www.researchgate.net/profile/Varvara-Magomedova-2) (University of Nova Gorica)
-  - [Behavioral Experiments in Linguistics "Zero to Hero": PCIbex + R](https://ovaschool.github.io/ova2026-magomedova) (week 1)
+  - [Behavioral experiments in linguistics "Zero to Hero": PCIbex + R](https://ovaschool.github.io/ova2026-magomedova) (week 1)
 
 #### Syntax-semantics interface
 
