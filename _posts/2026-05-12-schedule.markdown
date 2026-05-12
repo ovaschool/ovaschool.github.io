@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "OVA schedule online"
+date:   2026-05-12
+permalink: /ova26-schedule/
+# categories: jekyll update
+---
+
+The schedule for this year's school is out now. Check it out [here](https://docs.google.com/spreadsheets/d/1cHCMcVRPHjgnvnyKIIJlIhP-aCOYfsXFR7jU7Xpneuo/).
