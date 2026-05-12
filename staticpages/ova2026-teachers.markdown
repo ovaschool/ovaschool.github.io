@@ -7,6 +7,8 @@ exclude: true
 
 ### OVA teachers and course titles
 
+The **schedule** can be found [here](https://docs.google.com/spreadsheets/d/1cHCMcVRPHjgnvnyKIIJlIhP-aCOYfsXFR7jU7Xpneuo/).
+
 #### Morphology
 
 - [Guy Tabachnick](https://gtabach.github.io/) (Masaryk University Brno)
