@@ -37,7 +37,7 @@ The **schedule** can be found [here](https://docs.google.com/spreadsheets/d/1cHC
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (University of Salzburg)
   - Introduction to comparative constructions (intermediate, week 2)
 - [Maria Onoeva](https://mariaonoeva.github.io/) (Charles University Prague & HU Berlin)
-  - Introduction to polar questions? (intermediate, week 1)
+  - [Introduction to polar questions?](https://ovaschool.github.io/ova2026-onoeva) (intermediate, week 1)
 - [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht University)
   - Attitude reports: From modal logic to event semantics (intermediate, week 1)
 - [Vesela Simeonova](https://kfunigraz.academia.edu/VeselaSimeonova) (University of Graz)
