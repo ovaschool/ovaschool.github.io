@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mariia Onoeva - Introduction to polar questions?
+title: Maria Onoeva - Introduction to polar questions?
 permalink: ova2026-onoeva
 exclude: true
 ---
