@@ -44,7 +44,7 @@ The **schedule** can be found [here](https://docs.google.com/spreadsheets/d/1cHC
   - [The semantics and pragmatics of evidentiality](https://ovaschool.github.io/ova2026-simeonova) (advanced, week 1)
 - [Yasutada Sudo](https://www.homepages.ucl.ac.uk/~ucjtudo/) (UCL)
   - [Introduction to semantics I](https://ovaschool.github.io/ova2026-introsemantics) (week 1)
-  - Focus (intermediate, week 2)
+  - [Focus](https://ovaschool.github.io/ova2026-sudo) (intermediate, week 2)
 
 #### Statistics 
 
