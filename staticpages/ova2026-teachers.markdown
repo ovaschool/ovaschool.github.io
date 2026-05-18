@@ -35,7 +35,7 @@ The **schedule** can be found [here](https://docs.google.com/spreadsheets/d/1cHC
 - [Berit Gehrke](http://www.beritgehrke.com/) (HU Berlin)
   - [Introduction to semantics II](https://ovaschool.github.io/ova2026-introsemantics) (week 2)
 - [Filipe Hisao Kobayashi](https://fhkobayashi.net/) (University of Salzburg)
-  - Introduction to comparative constructions (intermediate, week 2)
+  - [Introduction to comparative constructions](https://ovaschool.github.io/ova2026-kobayashi) (intermediate, week 2)
 - [Maria Onoeva](https://mariaonoeva.github.io/) (Charles University Prague & HU Berlin)
   - [Introduction to polar questions?](https://ovaschool.github.io/ova2026-onoeva) (intermediate, week 1)
 - [Tom Roberts](https://www.uu.nl/staff/TDHRoberts) (Utrecht University)
