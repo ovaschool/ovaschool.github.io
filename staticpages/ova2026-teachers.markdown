@@ -10,8 +10,8 @@ The **schedule** can be found [here](https://docs.google.com/spreadsheets/d/1cHC
 #### Morphology
 
 - [Guy Tabachnick](https://gtabach.github.io/) (Masaryk University Brno)
-  - The role of paradigms in morphology (intermediate, week 1)
-  - Morphological productivity (introductory, week 2)
+  - [The role of paradigms in morphology](https://ovaschool.github.io/ova2026-tabachnick1) (intermediate, week 1)
+  - [Morphological productivity](https://ovaschool.github.io/ova2026-tabachnick2) (introductory, week 2)
 
 #### Phonology
 
