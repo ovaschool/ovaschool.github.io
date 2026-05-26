@@ -2,7 +2,7 @@
 layout: page
 title: OVA foundation
 permalink: ova-foundation
-exclude: true
+weight: 5
 ---
 
 OVA is a foundation (Verein) registered in Austria under the full name *Omnes Voces Acceptamus Sommerschule für Linguistik*.
