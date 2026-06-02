@@ -6,6 +6,8 @@ permalink: ova2026-registration
 ### General
 Registration is open and closes on **June 15**. Please register via the link to the registration form below. This year, we offer early bird fees; see the pricing options below.
 
+Note that registration via this form is **binding**--everyone who fills in the registration form is automatically admitted to the school! After submitting the form, you get an automatic email that your registration has been received: this counts as registration confirmation. If you have to cancel your registration please email us as soon as possible! Cancellations are quite difficult to handle in the organisation, so if you register, please show up :)
+
 ### [Link to the registration form](https://forms.gle/y3o2MPXbwcPYCdxQ9) 
 
 ### Costs
