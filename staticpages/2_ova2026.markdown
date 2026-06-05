@@ -11,8 +11,7 @@ OVA 2026 takes place at the **University of Debrecen**, Hungary from **July 27-A
 Here you will find information about: 
 - [Registration, costs and student grants](https://ovaschool.github.io/ova2026-registration)
 - Teaching
-    - [teachers and course titles](ova2026-teachers.markdown)  
-    - [course descriptions](ova2026-course-descriptions.markdown) 
+    - [teachers and course titles (with links to descriptions)](ova2026-teachers.markdown)   
     - [course schedule](https://docs.google.com/spreadsheets/d/1cHCMcVRPHjgnvnyKIIJlIhP-aCOYfsXFR7jU7Xpneuo/)
 - [Venue, dorms and classrooms](ova2026-location.markdown)
 
