@@ -22,7 +22,7 @@ The **schedule** can be found [here](https://docs.google.com/spreadsheets/d/1cHC
   - [Phonology of Finnic languages](https://ovaschool.github.io/ova2026-kuznetsova2) (intermediate/slightly advanced, week 2)
 - [Andrew Lamont](https://aphonologist.github.io/) (UCL)
   - [Introduction to phonology](https://ovaschool.github.io/ova2026-lamont1) (introductory, week 1)
-  - [Harmonic serialism](https://ovaschool.github.io/ova2026-lamont2) (intermediate/advanced, week 2)
+  - [Harmonic serialism](https://ovaschool.github.io/ova2026-lamont2) (advanced, week 2)
 - [Shakuntala Mahanta](https://www.iitg.ac.in/hss/faculty_page_profile.php?name=MzgvUVFIK2oydWpTaXFzNUJOUkExZz09) (IIT Guwahati)
   - [Vowel harmony at the intersection of phonetics, phonology & computation](https://ovaschool.github.io/ova2026-mahanta) (introductory/intermediate, week 1)
 - [Clàudia Pons-Moll](https://stel.ub.edu/filologiacatalana/directori-organitzatiu/claudia-pons-moll) (Universitat de Barcelona)
