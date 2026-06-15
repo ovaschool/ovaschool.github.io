@@ -7,6 +7,6 @@ exclude: true
 
 Suggested pre-requisite: some knowledge of Optimality Theory or Clàudia Pons-Moll’s course in Week 1.
 
-Constraint-based models of phonology such as Optimality Theory (Prince and Smolensky 1993/2004) posit that phonological grammars consist of phonotactic constraints and faithfulness constraints and that derivations are computed in one step. Opaque interactions have proven difficult to model, resulting in a large number of proposed theoretical mechanisms. This class introduces/reviews Optimality Theory and various approaches to capturing opaque interactions.
+Parallel Optimality Theory models phonological mappings as competition between candidates mediated by a ranked set of constraints. Candidates may be arbitrarily different from the input, which can be formalized as applying arbitrarily many operations to generate a candidate. Harmonic Serialism is a similar framework, differing only in its limiting how different candidates can be from the input. Analyses in HS raise questions about the basic set of operations in phonology, how processes can interact, and to what extent mappings are local or global.
 
-Level: Intermediate/advanced
+Level: Advanced
