@@ -4,14 +4,16 @@ title: Registration
 permalink: ova2026-registration
 ---
 ### General
-Registration is open and closes on **June 15**. Please register via the link to the registration form below. This year, we offer early bird fees; see the pricing options below.
+Registration is now closed. 
 
-Note that registration via this form is **binding**--everyone who fills in the registration form is automatically admitted to the school! After submitting the form, you get an automatic email that your registration has been received: this counts as registration confirmation. If you have to cancel your registration please email us as soon as possible! Cancellations are quite difficult to handle in the organisation, so if you register, please show up :)
+**Cancellation**: If you registered and cannot come in the end, please let us know no later than June 30.
 
-### [Link to the registration form](https://forms.gle/y3o2MPXbwcPYCdxQ9) 
+**Waiting list for registration with accommodation**: Send us an email at ovasummerschool@gmail.com if you want to be added to the waiting list. As soon as a place opens up due to cancellation, we fill it with the first name on the waiting list.
+
+**Registration without accommodation is still possible** and will be possible until the day before the school starts. Just send is an email at ovasummerschool@gmail.com.  
 
 ### Costs
-The registration fee covers accommodation at the dorms (Sunday to Saturday), and access to classes. It is to be paid in cash in the local currency (HUF) or in Euro on the day of arrival. Shared rooms host 4 people. There is limited availability of single rooms and they will be assigned on a first come, first serve basis.
+The registration fee covers accommodation at the dorms (Sunday to Saturday), and access to classes. Shared rooms host 4 people. The registration fee is to be paid via bank transfer, the bank details and further information will be sent by mail to registered people. If you cannot pay via bank transfer, you can also pay in cash (in the local currency) during on-site registration. 
 
 #### Early bird prices (before May 1)
 - two weeks shared room: €230
