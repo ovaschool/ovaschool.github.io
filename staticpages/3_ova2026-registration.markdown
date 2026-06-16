@@ -10,7 +10,7 @@ Registration is now closed.
 
 **Waiting list for registration with accommodation**: Send us an email at ovasummerschool@gmail.com if you want to be added to the waiting list. As soon as a place opens up due to cancellation, we fill it with the first name on the waiting list.
 
-**Registration without accommodation is still possible** and will be possible until the day before the school starts. Just send is an email at ovasummerschool@gmail.com.  
+**Registration without accommodation is still possible** and will be possible until the day before the school starts. Just send us an email at ovasummerschool@gmail.com.  
 
 ### Costs
 The registration fee covers accommodation at the dorms (Sunday to Saturday), and access to classes. Shared rooms host 4 people. The registration fee is to be paid via bank transfer, the bank details and further information will be sent by mail to registered people. If you cannot pay via bank transfer, you can also pay in cash (in the local currency) during on-site registration. 
