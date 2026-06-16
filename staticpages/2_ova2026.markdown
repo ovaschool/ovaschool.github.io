@@ -14,6 +14,7 @@ Here you will find information about:
     - [teachers and course titles (with links to descriptions)](ova2026-teachers.markdown)   
     - [course schedule](https://docs.google.com/spreadsheets/d/1cHCMcVRPHjgnvnyKIIJlIhP-aCOYfsXFR7jU7Xpneuo/)
 - [Venue, dorms and classrooms](ova2026-location.markdown)
+- Practical information
 
 #### We are funded by:
 
