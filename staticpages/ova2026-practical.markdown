@@ -40,7 +40,7 @@ More info: [https://dkv.hu/en/tickets-and-passes](https://dkv.hu/en/tickets-and-
 
 •	Pharmacies: In Hungary, even over-the-counter medications are sold only in pharmacies. The closest pharmacy to the dorm is a Benu pharmacy (address: Böszörményi út 75). (In Hungarian drugstores such as dm, you can only buy things such as soaps, shampoos, cleaning products.)
 
-•	Restaurants: The university has a cafeteria, called Nagyerdei Étterem, that offers a wide variety of lunch options for an affordable price every weekday. Some other restaurants around the university are Nagyerdei Étterem (university canteen), Pepe Panini, Academy Gyros & Streetfood, Next Bistro and Roy Café. 
+•	Restaurants: The university has a cafeteria, called [Nagyerdei Étterem](https://maps.app.goo.gl/K9ziTKTqRijcTR237), that offers a wide variety of lunch options for an affordable price every weekday. Some other restaurants around the university are [Pepe Panini](https://maps.app.goo.gl/18Ae2dgaje3tXiDe6), [Academy Gyros & Streetfood](https://maps.app.goo.gl/w5b4Fy48T8ezsnES9), [Next Bistro](https://maps.app.goo.gl/C6A7EB9TtQD1HywZ6) and [Roy Café](https://maps.app.goo.gl/SHemUg1oBhPPeCf19). 
 
 •	Sightseeing: For more information on what to see in Debrecen, you can visit these websites: 
 o	[https://www.debrecen.hu/en/tourist/](https://www.debrecen.hu/en/tourist/)
