@@ -11,28 +11,28 @@ exclude: true
 #### Getting to Debrecen
 
 •	Plane: You can travel directly to Debrecen by plane from cities such as London, Eindhoven or Munich. For further information, please visit the website of Debrecen International Airport here: 
-https://www.debrecenairport.com/en
+[https://www.debrecenairport.com/en](https://www.debrecenairport.com/en)
 
-•	Train: Debrecen can also be reached by train from Budapest and other Hungarian towns. On this website you can check the exact train schedules and ticket prices, as well as purchase e-tickets: https://jegy.mav.hu
+•	Train: Debrecen can also be reached by train from Budapest and other Hungarian towns. On this website you can check the exact train schedules and ticket prices, as well as purchase e-tickets: [https://jegy.mav.hu](https://jegy.mav.hu)
 
 #### Getting about in Debrecen
 
 •	University of Debrecen main building:
-https://maps.app.goo.gl/QX2Viy7hzKEeTThp6
+[https://maps.app.goo.gl/QX2Viy7hzKEeTThp6](https://maps.app.goo.gl/QX2Viy7hzKEeTThp6)
 
-•	Veres Péter dormitory: https://maps.app.goo.gl/VyQaz9LCjt7WdHNL9 
+• Dorms	(Veres Péter dormitory): [https://maps.app.goo.gl/VyQaz9LCjt7WdHNL9](https://maps.app.goo.gl/VyQaz9LCjt7WdHNL9) 
 
-•	Airport – university/dorm: There is a local bus line (Airport 1/R1) from the airport that will take you into the city. Its final stop is the train station where you can change to the tram lines (Tram 1 or 2) to take you to the university main building or the dorm.
+•	From the airport to the university/dorms: There is a local bus line (Airport 1/R1) from the airport that will take you into the city. Its final stop is the train station where you can change to the tram lines (Tram 1 or 2) to take you to the university main building or the dorm.
 
-•	Train station – university/dorm: Tram 1 and 2 depart from the train station and will take you to the university main building and the dorm.
+•	From the train station to the university/dorms: Tram 1 and 2 depart from the train station and will take you to the university main building and the dorm.
 
-•	Dorm – university: The dorm is a 20-minute walk away from the university, but you can also take bus 12, 23 or 24. 
+•	From the dorms to University: The dorm is a 20-minute walk away from the university, but you can also take bus 12, 23 or 24. 
 
-•	University/dorm – city center: From the dorm or the university building, it is also the easiest to take Tram 1 or 2 to take you into the center of the city.
+•	From the University/dorms to the city center: From the dorm or the university building, it is also the easiest to take Tram 1 or 2 to take you into the center of the city.
 
 • Tickets for local transportation: You can purchase tickets directly from the bus/tram drivers (only cash, a bit more expensive), but you can also purchase tickets at the ticket office that is right in front of the train station, where the trams depart from. You can purchase singular tickets, or you can buy them in a bulk of 10. It is also possible to get your tickets online in applications such as Simple or Mobile ticket for public transportation.
 
-More info: https://dkv.hu/en/tickets-and-passes 
+More info: [https://dkv.hu/en/tickets-and-passes](https://dkv.hu/en/tickets-and-passes) 
 
 ### Other useful information
 
