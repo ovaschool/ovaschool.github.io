@@ -38,13 +38,13 @@ More info: [https://dkv.hu/en/tickets-and-passes](https://dkv.hu/en/tickets-and-
 
 •	Shopping: The closest grocery stores to the dorm are an Aldi (address: Ötvenhatosok tere 5/B) and a Spar (address: Ötvenhatosok tere 6/A), both of them are a 10-minute walk away and are right opposite each other. In the same building as Spar (the shopping center is called Délibáb), you can also find a drugstore called dm – drogerie markt. 
 
-•	Pharmacies: In Hungary, even over-the-counter medications are sold only in pharmacies. The closest pharmacy to the dorm is a Benu pharmacy (address: Böszörményi út 75.). (In Hungarian drugstores such as dm, you can only buy things such as soaps, shampoos, cleaning products.)
+•	Pharmacies: In Hungary, even over-the-counter medications are sold only in pharmacies. The closest pharmacy to the dorm is a Benu pharmacy (address: Böszörményi út 75). (In Hungarian drugstores such as dm, you can only buy things such as soaps, shampoos, cleaning products.)
 
 •	Restaurants: The university has a cafeteria, called Nagyerdei Étterem, that offers a wide variety of lunch options for an affordable price every weekday. Some other restaurants around the university are Nagyerdei Étterem (university canteen), Pepe Panini, Academy Gyros & Streetfood, Next Bistro and Roy Café. 
 
 •	Sightseeing: For more information on what to see in Debrecen, you can visit these websites: 
-o	https://www.debrecen.hu/en/tourist/
-o	https://visitdebrecen.com/
+o	[https://www.debrecen.hu/en/tourist/](https://www.debrecen.hu/en/tourist/)
+o	[https://visitdebrecen.com/](https://visitdebrecen.com/)
 
 ### Phone numbers in case of emergency
 
