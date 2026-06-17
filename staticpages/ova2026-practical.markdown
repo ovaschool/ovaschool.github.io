@@ -36,9 +36,9 @@ More info: [https://dkv.hu/en/tickets-and-passes](https://dkv.hu/en/tickets-and-
 
 ### Other useful information
 
-•	Shopping: The closest grocery stores to the dorm are an Aldi (address: Ötvenhatosok tere 5/B) and a Spar (address: Ötvenhatosok tere 6/A), both of them are a 10-minute walk away and are right opposite each other. In the same building as Spar (the shopping center is called Délibáb), you can also find a drugstore called dm – drogerie markt. 
+•	Shopping: The closest grocery stores to the dorm are an [Aldi](https://maps.app.goo.gl/NRbYQKpykzzi8TGi9) (address: Ötvenhatosok tere 5/B) and a [Spar](https://maps.app.goo.gl/tYugzsCRv3ago6RC9) (address: Ötvenhatosok tere 6/A), both of them are a 10-minute walk away and are right opposite each other. In the same building as Spar (the shopping center is called Délibáb), you can also find a drugstore called [dm – drogerie markt](https://maps.app.goo.gl/avqMjo89qBmD8bFp8). 
 
-•	Pharmacies: In Hungary, even over-the-counter medications are sold only in pharmacies. The closest pharmacy to the dorm is a Benu pharmacy (address: Böszörményi út 75). (In Hungarian drugstores such as dm, you can only buy things such as soaps, shampoos, cleaning products.)
+•	Pharmacies: In Hungary, even over-the-counter medications are sold only in pharmacies. The closest pharmacy to the dorm is a [Benu pharmacy](https://maps.app.goo.gl/cYEVaxMEboJYxxXM7) (address: Böszörményi út 75). (In Hungarian drugstores such as dm, you can only buy things such as soaps, shampoos, cleaning products.)
 
 •	Restaurants: The university has a cafeteria, called [Nagyerdei Étterem](https://maps.app.goo.gl/K9ziTKTqRijcTR237), that offers a wide variety of lunch options for an affordable price every weekday. Some other restaurants around the university are [Pepe Panini](https://maps.app.goo.gl/18Ae2dgaje3tXiDe6), [Academy Gyros & Streetfood](https://maps.app.goo.gl/w5b4Fy48T8ezsnES9), [Next Bistro](https://maps.app.goo.gl/C6A7EB9TtQD1HywZ6) and [Roy Café](https://maps.app.goo.gl/SHemUg1oBhPPeCf19). 
 
