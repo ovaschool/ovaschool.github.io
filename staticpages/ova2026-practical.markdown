@@ -34,13 +34,6 @@ exclude: true
 
 More info: [https://dkv.hu/en/tickets-and-passes](https://dkv.hu/en/tickets-and-passes) 
 
-### Dorms
-•	The dorm consists of 4-bed rooms. Unless you indicated in your registration form that you wished to share a room with specific people, we have assigned you to a room. All assigned rooms are single-gender (non-mixed-gender) accommodations.
-
-• There are shared bathrooms.
-
-• The dorm has a kitchen but it is NOT equipped with utensils (like pots, plates, cutlery, etc). If you wish to cook at the dorms, make sure to bring these things.
-
 
 ### Other useful information
 
