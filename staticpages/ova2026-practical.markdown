@@ -35,7 +35,7 @@ exclude: true
 More info: [https://dkv.hu/en/tickets-and-passes](https://dkv.hu/en/tickets-and-passes) 
 
 ### Dorms
-•	The dorms have 4-bed rooms and shared bathrooms. Unless you have specified in the registration form that you want to share your room with specific people, we assigned you a room. There are non mixed-gender rooms in these assigned arrangements.
+•	The dorm consists of 4-bed rooms. Unless you indicated in your registration form that you wished to share a room with specific people, we have assigned you to a room. All assigned rooms are single-gender (non-mixed-gender) accommodations.
 
 • There are shared bathrooms.
 
