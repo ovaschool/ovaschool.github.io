@@ -34,6 +34,14 @@ exclude: true
 
 More info: [https://dkv.hu/en/tickets-and-passes](https://dkv.hu/en/tickets-and-passes) 
 
+### Dorms
+•	The dorms have 4-bed rooms and shared bathrooms. Unless you have specified in the registration form that you want to share your room with specific people, we assigned you a room. There are non mixed-gender rooms in these assigned arrangements.
+
+• There are shared bathrooms.
+
+• The dorm has a kitchen but it is NOT equipped with utensils (like pots, plates, cutlery, etc). If you wish to cook at the dorms, make sure to bring these things.
+
+
 ### Other useful information
 
 •	Shopping: The closest grocery stores to the dorm are an [Aldi](https://maps.app.goo.gl/NRbYQKpykzzi8TGi9) (address: Ötvenhatosok tere 5/B) and a [Spar](https://maps.app.goo.gl/tYugzsCRv3ago6RC9) (address: Ötvenhatosok tere 6/A), both of them are a 10-minute walk away and are right opposite each other. In the same building as Spar (the shopping center is called Délibáb), you can also find a drugstore called [dm – drogerie markt](https://maps.app.goo.gl/avqMjo89qBmD8bFp8). 
