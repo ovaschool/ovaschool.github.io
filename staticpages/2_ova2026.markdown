@@ -12,7 +12,7 @@ Here you will find information about:
 - [Registration, costs and student grants](https://ovaschool.github.io/ova2026-registration)
 - Teaching
     - [teachers and course titles (with links to descriptions)](https://ovaschool.github.io/ova2026-teachers)   
-    - [course schedule](https://docs.google.com/spreadsheets/d/1cHCMcVRPHjgnvnyKIIJlIhP-aCOYfsXFR7jU7Xpneuo/)
+    - [course schedule (with links to descriptions)](https://docs.google.com/spreadsheets/d/1cHCMcVRPHjgnvnyKIIJlIhP-aCOYfsXFR7jU7Xpneuo/)
 - [Venue, dorms and classrooms](https://ovaschool.github.io/ova2026-location)
 - [Practical information](https://ovaschool.github.io/ova2026-practical)
 
