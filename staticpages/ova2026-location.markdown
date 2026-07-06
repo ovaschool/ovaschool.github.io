@@ -14,7 +14,7 @@ The dorms are about 20 minutes walking from the university and are located [here
 
 The dorm rooms host 4 people each, with shared bathrooms per floor. The dorms are mixed-gender in general, but individual rooms will be assigned as single-gender unless otherwise specified in the registration form. 
 
-There are pillows and beddings at the dorms but no (!) towels. Also, there is a kitchen but it is not equiped with utensils (like pots, plates, cutlery, etc), please bring your own equipment for cooking. There is a washing machine (but most likely you have to bring your own washing powder).
+There are pillows and beddings at the dorms but no (!) towels. Also, there is a kitchen but it is not equipped with utensils (like pots, plates, cutlery, etc.), please bring your own equipment for cooking. There is a washing machine (but most likely you have to bring your own washing powder).
 
 [Here](https://kollegiumok.unideb.hu/veres%20peter-adatok) you find more infos and pictures.
 
