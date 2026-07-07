@@ -14,7 +14,7 @@ Here you will find information about:
     - [teachers and course titles (with links to descriptions)](https://ovaschool.github.io/ova2026-teachers)   
     - [course schedule (with links to descriptions)](https://docs.google.com/spreadsheets/d/1cHCMcVRPHjgnvnyKIIJlIhP-aCOYfsXFR7jU7Xpneuo/)
 - [Venue, dorms and classrooms](https://ovaschool.github.io/ova2026-location)
-- Social programme (welcome party, excursion etc.) (soon to come)
+- [Social programme](https://ovaschool.github.io/ova2026-social) (welcome party, excursion etc.)
 - [Practical information](https://ovaschool.github.io/ova2026-practical)
 
 #### We are funded by:
