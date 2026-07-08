@@ -5,9 +5,9 @@ permalink: ova2026-social
 exclude: true
 ---
 
-The local organisers offered to organise two events: a social gathering to welcome everyone on Monday, July 27, and an excursion on Saturday between the two weeks (August 1). Those two are the official ones, but everyone is encouraged to organise other spontaneous/semi-spontaneous activities, and the local organisers can help facilitate organising these if need be. 
+The local organisers offered to organise two events: a social gathering to welcome everyone on Tuesday, July 28, and an excursion on Saturday between the two weeks (August 1). Those two are the official ones, but everyone is encouraged to organise other spontaneous/semi-spontaneous activities, and the local organisers can help facilitate organising these if need be. 
 
-### Welcome party: Monday, July 27, starting at 19h
+### Welcome party: Tuesday, July 28, starting at 19h
 
 Let's get together on day 1 to welcome everyone, at [Csinibaba Kultkert](https://visitdebrecen.com/eat-drink/csinibaba-kultkert/).
 
@@ -15,7 +15,7 @@ There is a possibility of buying food at the place (hamburger, gyros, streetfood
 
 ### Hiking excursion: Saturday, August 1, departing at 9:30 am from the dorm
 
-(A google form for signing up will be created in due time)
+(A google form for signing up will be created in due time - the bus we rented can fit 50 people.)
 
 You are kindly invited to the OVA-DEL trip, on 1 August. 
 
