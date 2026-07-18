@@ -7,7 +7,7 @@ exclude: true
 
 The local organisers offered to organise two events: a social gathering to welcome everyone on Tuesday, July 28, and an excursion on Saturday between the two weeks (August 1). Those two are the official ones, but everyone is encouraged to organise other spontaneous/semi-spontaneous activities, and the local organisers can help facilitate organising these if need be. 
 
-### Welcome party: Tuesday, July 28, starting at 19h
+### Welcome party: Tuesday, July 28, starting at 19:30
 
 Let's get together on day 1 to welcome everyone, at [Csinibaba Kultkert](https://visitdebrecen.com/eat-drink/csinibaba-kultkert/).
 
