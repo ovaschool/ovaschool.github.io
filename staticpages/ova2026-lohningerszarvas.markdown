@@ -7,6 +7,8 @@ exclude: true
 
 ### (I got 99 problems but evidence ain't one)
 
+[Course Materials](https://drive.google.com/drive/folders/1qBnrGaBrvj6peWcB1MX_r-ussLBaQgcT?usp=drive_link)
+
 In this class, two syntacticians with distinct approaches to data collection join forces to teach you how to get from a linguistic problem to theory formation. Along the way, we discuss the following topics:
 
 **Key concepts of philosophy of science, how linguistics classifies as a science and what makes a theory falsifiable.**
