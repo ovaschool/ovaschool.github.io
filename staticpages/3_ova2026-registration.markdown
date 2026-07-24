@@ -2,6 +2,7 @@
 layout: page
 title: Registration
 permalink: ova2026-registration
+exclude: true
 ---
 ### General
 Registration is now closed. 
