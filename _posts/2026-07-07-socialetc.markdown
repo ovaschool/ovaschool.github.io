@@ -6,6 +6,8 @@ permalink: /socialetc/
 # categories: jekyll update
 ---
 
-We added information about the social programme planned by the local organisers so far (a welcome party on Tuesday, an excursion on Saturday), check it out [here](https://ovaschool.github.io/ova2026-social).
+There will be social programme planned by the local organisers so far (a welcome party on Tuesday, an excursion on Saturday), check it out [here](https://ovaschool.github.io/ova2026-social).
 
-Information about anything local (dorm, venue etc.) can be found under [OVA 2026 in Debrecen](https://ovaschool.github.io/ova2026/), which we will update whenever needed, so make sure to regularly check it out.
+Information about anything local (dorm, venue etc.) can be found here: [OVA 2026 in Debrecen](https://ovaschool.github.io/ova2026/)
+
+Here you find the [class schedule](https://docs.google.com/spreadsheets/d/1cHCMcVRPHjgnvnyKIIJlIhP-aCOYfsXFR7jU7Xpneuo/edit?gid=0#gid=0)
