@@ -18,7 +18,7 @@ There are pillows and beddings at the dorms but no (!) towels. Each room has its
 
 [Here](https://kollegiumok.unideb.hu/veres%20peter-adatok) you find more infos and pictures.
 
-There is **no air-conditioning** at the dorms or at the university. The university building is supposed to be rather cool, though. As for the dorm rooms it all depends which side the rooms face and how much sun the room gets during the day. 
+There is **no air-conditioning** at the dorms or at the university. The university building is supposed to be rather cool, though. As for the dorm rooms it all depends on which side the rooms face and how much sun the room gets during the day. 
 
 
 
