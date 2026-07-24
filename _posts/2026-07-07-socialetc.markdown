@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Social programme and more infos about OVA 2026 in Debrecen"
+title:  "Infos about OVA 2026 in Debrecen"
 date:   2026-07-07 
 permalink: /socialetc/
 # categories: jekyll update
