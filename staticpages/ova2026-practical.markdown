@@ -24,7 +24,7 @@ exclude: true
 
 •	From the airport to the university/dorms: There is a local bus line (Airport 1/R1) from the airport that will take you into the city. Its final stop is the train station where you can change to the tram lines (Tram 1 or 2) to take you to the university main building or the dorm.
 
-•	From the train station to the dorm: Take tram 1 at the railway station, ride 13 stops to the stop called Csokonai Vitéz Mihály Gimnázium. From there, the dorm is a 9-minute walk. (Check out google maps or the map that is pinned in the WhatsApp group.)
+•	From the train station to the dorm: Take tram 1 at the railway station, ride 13 stops to the stop called Csokonai Vitéz Mihály Gimnázium. From there, the dorm is a 10-minute walk. (Check out google maps or the map that is pinned in the WhatsApp group.)
 
 •	From the train station to the university: Tram 1 and 2 depart from the train station and will take you to the university main building and the dorm.
 
