@@ -7,6 +7,8 @@ exclude: true
 
 ### "Zero to Hero": PCIbex + R
 
+[Course material](https://drive.google.com/drive/folders/1HpxL2qmR1bQtm8kEdf9Ak6Cm9-o9s7zy?usp=sharing)
+
 We will design experiments, set them up on PCIbex and analyze data. 
 
 On the way, I will explain why we do some things this way and not the other, and some other things are just a matter of established procedures - no proper explanations. 
