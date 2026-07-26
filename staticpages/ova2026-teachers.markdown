@@ -68,4 +68,4 @@ The **schedule** can be found [here](https://docs.google.com/spreadsheets/d/1cHC
 - [Magdalena Lohninger](https://lenalohninger.wordpress.com/) (University of Salzburg) & [Timea Szarvas](https://timeaszarvas.github.io/) (University of Potsdam)
   - [Scientific problem solving for linguists (I got 99 problems but evidence ain't one)](https://ovaschool.github.io/ova2026-lohningerszarvas) (intermediate, week 2)
 - [Timea Szarvas](https://timeaszarvas.github.io/) (University of Potsdam)
-  - [Introduction to syntax I (week 1)](https://ovaschool.github.io/ova2026-szarvas)
+  - [Introduction to syntax I](https://ovaschool.github.io/ova2026-szarvas) (week 1)
