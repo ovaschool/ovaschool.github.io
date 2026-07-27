@@ -69,3 +69,5 @@ The **schedule** can be found [here](https://docs.google.com/spreadsheets/d/1cHC
   - [Scientific problem solving for linguists (I got 99 problems but evidence ain't one)](https://ovaschool.github.io/ova2026-lohningerszarvas) (intermediate, week 2)
 - [Timea Szarvas](https://timeaszarvas.github.io/) (University of Potsdam)
   - [Introduction to syntax I](https://ovaschool.github.io/ova2026-szarvas) (week 1)
+
+Additionally, there will be a [**Japanese languages course**](https://ovaschool.github.io/ova2026-arafune) (with some linguistics), given by **Sayuri Arafune**.
