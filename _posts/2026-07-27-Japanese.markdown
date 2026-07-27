@@ -6,6 +6,6 @@ permalink: /Japanese/
 # categories: jekyll update
 ---
 
-There will be a **Japanese language course (with some linguistics)** taught by **Sayuri Arafune** (professional Japanese teacher at the University of Salzburg & linguistics PhD student)
+There will be a **Japanese language course (with some linguistics)** taught by **Sayuri Arafune** (professional Japanese teacher at the University of Salzburg & linguistics PhD student).
 
 It will take place on Wed, Thur, Fri of week 1 and Mon, Tue of week 2, from 18.30-19.30 in room 109.
