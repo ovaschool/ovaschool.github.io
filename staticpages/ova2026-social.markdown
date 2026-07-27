@@ -11,6 +11,8 @@ The local organisers offered to organise two events: a social gathering to welco
 
 Let's get together on day 1 to welcome everyone, at [Csinibaba Kultkert](https://visitdebrecen.com/eat-drink/csinibaba-kultkert/).
 
+Don't forget to bring your **drink coupon**, to get a beer/wine/pálinka/lemonade/water.
+
 There is a possibility of buying food at the place (hamburger, gyros, streetfood), but if many people eat at once, serving will become very slow. So the local organisers suggest having dinner in advance, to avoid long waits. 
 
 ### Hiking excursion: Saturday, August 1, departing at 9:30 am from the dorm
