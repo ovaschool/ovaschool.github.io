@@ -15,7 +15,7 @@ There is a possibility of buying food at the place (hamburger, gyros, streetfood
 
 ### Hiking excursion: Saturday, August 1, departing at 9:30 am from the dorm
 
-(A google form for signing up will be created in due time - the bus we rented can fit 50 people.)
+To sign up for this excursion you must fill out **[this form](https://forms.gle/PzTTsvLTMMaKgYsT9) by Thursday, July 28, 18:00**. The bus we rented can fit 50 people.
 
 You are kindly invited to the OVA-DEL trip, on 1 August. 
 
