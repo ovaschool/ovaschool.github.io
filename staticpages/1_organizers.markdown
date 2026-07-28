@@ -5,7 +5,7 @@ permalink: /organizers/
 weight: 3
 ---
 
-The OVA summer school is organized by is the OVA board, together with yearly changing local organizers.
+The OVA summer school is organized by is the OVA board, together with local organizers of the hosting University.
 
 ### OVA Board
 
