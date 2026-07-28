@@ -5,7 +5,7 @@ permalink: ova2026-branan
 exclude: true
 ---
 
-[Course material](tinyurl.com/36pdh95r)
+[Course material](https://www.dropbox.com/scl/fo/ay4qhdkqw2b93vgp26h3e/APr67k_eiKcbix7HzbmBAMw?rlkey=aclbstzrskq00i6mo0g94veuo&st=qay1kamq&e=1&dl=0)
 
 Some phonological processes seem to make reference to a context outside the word. A prominent line of research on these sorts of processes suggests that the structures proposed by syntacticians seem to correspond to some extent to the contexts that matter for phonological processes. Since the correspondence between syntactic and phonological domains is close, but not exact, a common move is to propose that there are phonological constituents distinct from syntactic constituents, with the former being derivative of the latter.  In this course we will discuss different approaches to understanding this correspondence between syntactic and post-syntactic constituents, and some of the facts these approaches allow us to better understand.
 
