@@ -5,6 +5,8 @@ permalink: ova2026-sudo
 exclude: true
 ---
 
+[Course material](https://www.homepages.ucl.ac.uk/~ucjtudo/teaching/FocusOVA-2026.html)
+
 Every language has some way of indicating that an expression is in "focus". Most typically, in an answer to a wh-question, the part that corresponds to the wh-phrase is somehow highlighted. English happens to mostly rely on prosody for this purpose, but there are languages that (often) use word order or a particle, often in addition to prosody, to achieve the same thing.
 
 An interesting thing about focus is that across languages, one finds operators that seem to operate on such focussed expressions. These operators are called 'focus-sensitive operators'. Primary examples of focus-sensitive operators in English are "only" and "even", which are by far the most commonly analyzed operators in the current literature. However, we know that there is a great deal of variation both within and across languages. For instance, what is the difference between "only" and "just" in English? Or Japanese seems to have four different particles for "even", but their interpretive functions do not seem to be completely identical. A lot of this variation has so far been poorly documented.
