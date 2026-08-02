@@ -5,7 +5,7 @@ permalink: ova2026-driemel
 exclude: true
 ---
 
-[Course Materials](https://drive.google.com/drive/folders/1MRk_JP4sdgJoSx_nWgPbKBsWqF28GsjB?usp=sharing)
+[Course material](https://drive.google.com/drive/folders/1MRk_JP4sdgJoSx_nWgPbKBsWqF28GsjB?usp=sharing)
 
 The class will provide an overview of the key components of the syntactic operation Agree, starting with Chomsky’s (2000,2001) definition and subsequently comparing it to the newest developments of Agree theories that question either the direction of Agree (Bjorkman & Zeijlstra 2019), the one-to-one requirement of Agree (Hiraiwa 2004, Béjar & Rezac 2009, Deal 2023), or its place in the architecture (Arregi & Nevins 2012, Smith 2015). More often than not these Agree theories are motivated by a range of agreement phenomena that go beyond subject-verb agreement in English. Hence, we will look at PCC effects, inverse languages, agreement alternations with conjunctions and collective nouns, and omnivorous agreement. The complexity of these agreement patterns shape our view of feature systems and challenge the original motivation of Agree to take place in the first place, i.e. uninterpretability.
 
