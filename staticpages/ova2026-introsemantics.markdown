@@ -9,6 +9,8 @@ exclude: true
 
 [Course material week 1](https://www.homepages.ucl.ac.uk/~ucjtudo/teaching/IntroSemanticsOVA-2026.html)
 
+[Course material week 2](https://www.dropbox.com/scl/fo/yklefg7ikcjbbvdbq53ol/ABfz6Eth8P0XQ7KJ6G_3ebE?rlkey=tg8e417546lyvxmjyjx8ci9e5&st=epinrihz&dl=0)
+
 In this course, we will give students a basic introduction to the tools of formal semantics and how they are important for the understanding of natural language.  It will run for 2 weeks, but if you already have some knowledge of formal semantics you can also join the course in week 2, and also if you only visit week 1 you will already get a good first impression of what formal semantics is about. 
 
 No background reading is required, but we will loosely base our classes on various introductory textbooks on formal semantics (e.g. Heim & Kratzer 1998, Kearns 2011, Coppock & Champollion 2025).
