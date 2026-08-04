@@ -6,4 +6,6 @@ permalink: /openpodium26/
 # categories: jekyll update
 ---
 
-Next week Wednesday and Thursday there will be an Open Podium for students to present their work. More info [here](https://ovaschool.github.io/ova2026-openpodium).
+On Wednesday and Thursday of week 2 there will be an Open Podium for students to present their work. More info [here](https://ovaschool.github.io/ova2026-openpodium).
+
+**The programme is now online, check it out [here](https://drive.google.com/file/d/1GyeNOonLM00WL565ZR5WaTS3u46fFpAm/view).**
