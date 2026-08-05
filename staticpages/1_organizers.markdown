@@ -17,6 +17,10 @@ The OVA summer school is organized by is the OVA board, together with local orga
 
 Board members are (re-)elected every five years by all OVA members.
 
+### Auditors
+
+Fatemeh Sadat Hosseini, Polina Peshko, Justina Schindler
+
 ### Former Board Members
 
 * Deniz Özyıldız (2026)
