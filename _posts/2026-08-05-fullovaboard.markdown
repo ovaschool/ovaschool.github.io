@@ -14,8 +14,6 @@ We are happy to announce that as of yesterday, we have a full OVA board!
 * Syntax Member: Magdalena Lohninger
 * Phonology Member: Andrew Lamont
 
-<br/>
-
 The two new board members (Daria and Andrew) were officially elected by all OVA members at yesterday's general assembly. Welcome on board! 
 
 We also welcome 3 auditors to the team who make sure that our yearly financial report is correct: Fatemeh Sadat Hosseini, Polina Peshko and Justina Schindler. Thanks for taking over that job! 
