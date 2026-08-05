@@ -12,7 +12,7 @@ We are happy to announce that as of yesterday, we have a full OVA board!
 * General Member 2: Matěj Kundrát
 * Semantics Member: Daria Seres
 * Syntax Member: Magdalena Lohninger
-* Phonology Member: Andrew Lamont
+* Phonology Member: Andrew Lamont<br/>
 
 The two new board members (Daria and Andrew) were officially elected by all OVA members at yesterday's general assembly. Welcome on board! 
 
