@@ -9,9 +9,9 @@ The OVA summer school is organized by is the OVA board, together with local orga
 
 ### OVA Board
 
-* General Member 1: **Petra Charvátová** (since April 2026)
+* General Member 1: **Berit Gehrke** (since April 2026)
 * General Member 2: **Matěj Kundrát** (since April 2026)
-* Semantics Member: **Berit Gehrke** (since April 2026)
+* Semantics Member: **Daria Seres** (since August 2026)
 * Syntax Member: **Magdalena Lohninger** (since April 2026)
 * Phonology Member: **Andrew Lamont** (since August 2026)
 
@@ -20,5 +20,6 @@ Board members are (re-)elected every five years by all OVA members.
 ### Former Board Members
 
 * Deniz Özyıldız (2026)
+* Petra Charvátová (2026)
 
 
