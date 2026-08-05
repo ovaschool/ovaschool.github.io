@@ -8,11 +8,11 @@ permalink: /fullovaboard/
 
 We are happy to announce that as of yesterday, we have a full OVA board!
 
-- General Member 1: Berit Gehrke
-- General Member 2: Matěj Kundrát
-- Semantics Member: Daria Seres
-- Syntax Member: Magdalena Lohninger
-- Phonology Member: Andrew Lamont
+* General Member 1: Berit Gehrke
+* General Member 2: Matěj Kundrát
+* Semantics Member: Daria Seres
+* Syntax Member: Magdalena Lohninger
+* Phonology Member: Andrew Lamont
 
 <br/>
 
