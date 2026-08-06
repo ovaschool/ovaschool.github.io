@@ -9,7 +9,7 @@ exclude: true
 
 Anna and Grigory are happy to announce that on Wednesday and Thursday of week 2, starting at 17:00, there will be the Open Podium, an event where every OVA participant can briefly share their own research project in the format of a 10-minute research presentation followed by 5 minutes of discussion.
 
-Here is the [programme](https://drive.google.com/file/d/1GyeNOonLM00WL565ZR5WaTS3u46fFpAm/view?usp=drive_open).
+Here is the [programme](https://drive.google.com/file/d/14dpJMUD4Mi2hrapZtmtUjrDR8S0E9GvY/view).
 
 And [here is a folder with the presentations](https://drive.google.com/drive/folders/1ky9uRVc3HlnpkBKVqgM3X8MnmJmqrKZV).
 
