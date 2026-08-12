@@ -23,7 +23,7 @@ Fatemeh Sadat Hosseini, Polina Peshko, Justina Schindler
 
 ### Former Board Members
 
-* Deniz Özyıldız (2026)
-* Petra Charvátová (2026)
+* Deniz Özyıldız (until April 2026)
+* Petra Charvátová (until August 2026)
 
 
