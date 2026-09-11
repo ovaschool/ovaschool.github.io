@@ -15,6 +15,8 @@ The OVA summer school is organized by is the OVA board, together with local orga
 * Syntax Member: **Magdalena Lohninger** (since April 2026)
 * Phonology Member: **Andrew Lamont** (since August 2026)
 
+![](\assets\OVA board.jpg)
+
 Board members are (re-)elected every five years by all OVA members.
 
 ### Auditors
