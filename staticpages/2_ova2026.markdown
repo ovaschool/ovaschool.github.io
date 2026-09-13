@@ -6,7 +6,7 @@ weight: 2
 ---
 
 
-OVA 2026 takes place at the **University of Debrecen**, Hungary from **July 27-August 7**, 2026. Get excited! 
+OVA 2026 took place at the **University of Debrecen**, Hungary from **July 27-August 7**, 2026. 
 
 - Courses
     - [class schedule](https://docs.google.com/spreadsheets/d/1cHCMcVRPHjgnvnyKIIJlIhP-aCOYfsXFR7jU7Xpneuo/)
@@ -18,8 +18,10 @@ OVA 2026 takes place at the **University of Debrecen**, Hungary from **July 27-A
 
 - [Registration, costs and student grants](https://ovaschool.github.io/ova2026-registration)
 
-#### We are funded by:
+#### OVA 2026 was funded by:
 
 - Generative Linguistics in the Old World (GLOW)
 - Department of Slavic and Hungarian Studies, HU Berlin
 - Faculty of Language, Literature and Humanities, HU Berlin
+
+![](\assets\debrecen26.jpg)
