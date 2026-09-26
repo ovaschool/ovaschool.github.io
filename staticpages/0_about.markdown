@@ -38,5 +38,7 @@ We aim to keep the barrier between students and teachers as low as possible — 
 
 To ensure that everyone feels welcome and safe, OVA has a [Code of Conduct](https://ovaschool.github.io/code-of-conduct) that applies to all participants. 
 
+OVA is a registered association (Verein) in Austria with legally binding statutes and a clearly defined board setup. Every participant of an annual school can become an OVA member for the subsequent year and thereby has a voting right on major decisions made. With this model, we aim to make the school as inclusive and participatory as possible, fostering a collective process of co-creation and shared community effort. You can find more information about the OVA association [HERE](https://ovaschool.github.io/ova-association).
+
 
 
