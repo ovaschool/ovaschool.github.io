@@ -11,7 +11,7 @@ The OVA summer school is organized by is the OVA board, together with local orga
 
 * General Member 1: **Berit Gehrke** (since April 2026)
 * General Member 2: **Matěj Kundrát** (since April 2026)
-* Semantics Member: **Daria Seres** (since August 2026)
+* Semantics Member: **Daria Alexandrova (Seres)** (since August 2026)
 * Syntax Member: **Magdalena Lohninger** (since April 2026)
 * Phonology Member: **Andrew Lamont** (since August 2026)
 
