@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OVA 2027"
-date:   2027-10-02 
+date:   2026-10-02 
 permalink: /ovaannounce/
 # categories: jekyll update
 ---
