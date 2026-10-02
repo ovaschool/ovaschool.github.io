@@ -2,7 +2,7 @@
 layout: post
 title:  "OVA 2027"
 date:   2027-10-02 
-permalink: /ova2027/
+permalink: /ovaannounce/
 # categories: jekyll update
 ---
 
