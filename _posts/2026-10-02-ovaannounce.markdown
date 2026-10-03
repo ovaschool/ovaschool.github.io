@@ -12,14 +12,14 @@ Phonology:
 
 * Janet Grijzenhout (Leiden University)
 * Cerys Hughes (University of Surrey)
-* Yutong Wang (University of Cambridge)
+* Yutong Wang (University of Cambridge)<br/><br/>
 
 
 Semantics:
 
 * Edgar Onea (University of Graz)
 * Evripidis Tsiakmakis (Euskal Herriko Unibertsitatea/Universidad del País Vasco)
-* Sarah Zobel (Humboldt-Universität zu Berlin)
+* Sarah Zobel (Humboldt-Universität zu Berlin)<br/><br/>
 
 
 Syntax:
@@ -28,6 +28,6 @@ Syntax:
 * František Kratochvíl (Palacký University)
 * Ivona Kučerová (McMaster University)
 * Joanna Sio (Palacký University)
-* Thomas Weskott (Göttingen University)
+* Thomas Weskott (Göttingen University)<br/><br/>
 
 Stay tuned for more updates!
