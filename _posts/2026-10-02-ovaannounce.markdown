@@ -16,8 +16,6 @@ Phonology:
 
 Semantics:
 
-* Lisa Bylinina (Utrecht University)
-* Magdalena Kaufmann (University of Connecticut)
 * Edgar Onea (University of Graz)
 * Evripidis Tsiakmakis (Euskal Herriko Unibertsitatea/Universidad del País Vasco)
 * Sarah Zobel (Humboldt-Universität zu Berlin)
