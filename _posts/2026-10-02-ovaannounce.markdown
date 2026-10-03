@@ -14,11 +14,13 @@ Phonology:
 * Cerys Hughes (University of Surrey)
 * Yutong Wang (University of Cambridge)
 
+
 Semantics:
 
 * Edgar Onea (University of Graz)
 * Evripidis Tsiakmakis (Euskal Herriko Unibertsitatea/Universidad del País Vasco)
 * Sarah Zobel (Humboldt-Universität zu Berlin)
+
 
 Syntax:
 
