@@ -6,7 +6,7 @@ permalink: /ovaannounce/
 # categories: jekyll update
 ---
 
-We are happy to announce that OVA 2027 will be held at Palacký University in Olomouc, Czechia from 26 July to 6 August 2027. While we are still finalizing the line-up, we are excited to be joined in Olomouc by the following teachers:
+We are happy to announce that OVA 2027 will be held at Palacký University in Olomouc, Czechia from 26 July to 6 August 2027. While we are still finalizing the line-up, we are already excited to be joined in Olomouc by the following teachers:
 
 Phonology:
 
