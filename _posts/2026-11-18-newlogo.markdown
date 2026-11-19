@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "New Ova logo!"
+date:   2026-11-18
+permalink: /ova26-newlogo/
+# categories: jekyll update
+---
+
+We are very excited to announce that OVA has a new logo (see attachment)!
+
+The design was created by the winner of our OVA logo contest, who has chosen to remain anonymous. A big thank-you to everyone who submitted a proposal! We received so many creative ideas that choosing a winner was no easy task.
+
+A big yaaay for our new look! 
+
+![The new OVA logo](https://raw.githubusercontent.com/ovaschool/ovaschool.github.io/refs/heads/main/assets/OVAlogo.png)
+
